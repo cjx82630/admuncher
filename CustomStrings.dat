@@ -1,4 +1,4 @@
-Xlist version 150506
+Xlist version 150508
 G.behe.com/
 G.dlads.cn
 B918999.com/xjgg/
@@ -5561,8 +5561,8 @@ R|time:8,*buffered:8,|time:1,buffered:8,
 R|if(_g3)|if(1>0)
 R|<adlist>*</adlist>|
 R|%26url=http://mediainfo.hitvs.cn:8088/media/viewmedia-normal-575692-mp4.mp4|%26url=
-R|"http://tv.sohu.com/upload/swf/20*/main.swf";|'http://t.cn/RhaDGvD';
-R|"http://tv.sohu.com/upload/swf/p2p/20*/main.swf";|'http://t.cn/RhaDGvD';
+R|"http://tv.sohu.com/upload/swf/20*/main.swf";|'http://url.cn/aETvGC';
+R|"http://tv.sohu.com/upload/swf/p2p/20*/main.swf";|'http://url.cn/aETvGC';
 R|if(!a){$("#content_left|if(!1){$("#content_left
 R|="{"fm":"ppim", "p1":*}"| style='display:none'
 R|="{"fm":"pp", "p1":*}"| style='display:none'
