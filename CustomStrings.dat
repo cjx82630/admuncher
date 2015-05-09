@@ -1,4 +1,6 @@
-Xlist version 150509
+Xlist version 150509a
+Bdjwma.com/960*.gif
+Bdjwma.com/760*.gif
 Egetjscallback("/wxh_asy.
 Esetcookietime("dm5popwin"
 G.behe.com/
@@ -5552,6 +5554,11 @@ Lif(__amscript_cd("btago.")){__amscript_wc('#browser,img[src*=".sinaimg."] {disp
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
+R|"http://tv.sohu.com/upload/swf/20*/main.swf";|"/upload/swf/pl/20130306/Main.swf";
+R|"http://tv.sohu.com/upload/swf/p2p/20*/main.swf";|"/upload/swf/pl/20130306/Main.swf";
+R|"http://tv.sohu.com/upload/swf/smallver/20*/main.swf";|"/upload/swf/pl/20130306/Main.swf";
+R|"http://220.181.90.161/webplayer/main.swf";|"/upload/swf/pl/20130306/Main.swf";
+R|"http://220.181.90.161/testplayer/main*.swf";|"/upload/swf/pl/20130306/Main.swf";
 R|<adlist><|<xdList><
 R|</adlist><|</xdList><
 R|ck_flashvars=**t:"15",|ck_flashvars=*t:'1',
@@ -5563,9 +5570,6 @@ R|timer20 = 15;|timer20 = 0;
 R|time:8,*buffered:8,|time:1,buffered:8,
 R|if(_g3)|if(1>0)
 R|%26url=http://mediainfo.hitvs.cn:8088/media/viewmedia-normal-575692-mp4.mp4|%26url=
-R|"http://tv.sohu.com/upload/swf/20*/main.swf";|'http://t.cn/RhaDGvD';
-R|"http://tv.sohu.com/upload/swf/p2p/20*/main.swf";|'http://t.cn/RhaDGvD';
-R|"http://tv.sohu.com/upload/swf/smallver/20*/main.swf";|'http://t.cn/RhaDGvD';
 R|if(!a){$("#content_left|if(!1){$("#content_left
 R|="{"fm":"ppim", "p1":*}"| style='display:none'
 R|="{"fm":"pp", "p1":*}"| style='display:none'
