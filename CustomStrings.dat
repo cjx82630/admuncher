@@ -1,4 +1,29 @@
-Xlist version 150512
+Xlist version 150517
+G.892155.com
+G.mengheng.net
+G.9718.com
+G.yyp17.com
+G8yyi.com/css/*.js
+Xcb.baidu.com/ecom?di=933927&
+O/advview2013.php?ad_pos=0
+Gweste.net/js/showpagead.
+Gpg.udn.com/bt/*.swf
+Bimgbus.com/doimg/3co0mmeon839377.
+O.locuspublishing.com/images/advert/
+Blandiannews.com/tui/
+Gkviso.com/ddnew/kviso
+F/2009/bingdun2009.
+Bhdarea.co/pic/2222.
+B_ad_images/
+Bchinaqking.com/images/newpage/jlw.
+Bcp126.com/img/ad0
+Bstatic.cmhello.com/2015/02/
+Bcloudleft.com/images/new/cmhello.
+B.buzzhand.com/images/*.html?
+G/homead/*_appledaily_bg.
+G.sdktu.com/js/alpha.
+Gakjunshi.com/resource/s/data_js_mil/right_twtj.
+Gakjunshi.com/resource/s/data_js_mil/aksqgg.
 Bgtimg.com/finance/js/st/p/news_ad_
 Bforex.com.cn/statics/images/ewm.
 Gforex.com.cn/index.php/invoking/tanchukuang
@@ -631,7 +656,7 @@ G/moneymaker/js/videoplayer.
 G/moneymaker/js/fkpp.
 Bjiujiure.com/media/banners/
 B99re1.com/images/*.gif
-B99re.co/media/banners/
+B99re.*/media/banners/
 B591.xxx/media/banners/
 Bygdy8.com/jsy/
 Gtianqi.com/templates/huoche/js/hcgg.
@@ -677,10 +702,6 @@ G.mtime.cn/tg/*.swf
 B.mtime.cn/tg/*.htm
 Blanyingwang.com/wp-content/uploads/2015/01/fw.
 O360buyimg.com/ads/
-Bcmhello.com/2014/06/wx300-250.
-Bcmhello.com/2014/04/eduoyun.
-Bcmhello.com/2013/12/wpdx
-Bcmhello.com*/cmhello
 Gso.6949.com
 B6949.com/640x44.
 G44921.cn/ajsv1/flashad_
@@ -1017,7 +1038,7 @@ G.ujian.cc/code/
 G.vamaker.com
 Blepan.cc/images/yd/
 Btwfuwu.info*.gif
-Bdioguitar23.net/images/*.gif
+Bdioguitar23.*/images/*.gif
 B.sexy-more.com
 Byouth.cn/ggw/dep_ggw/
 Bmall.xinkuaituan.com/zhuanti/
@@ -1536,7 +1557,7 @@ I.spj88888.com
 G.366safego.com
 G.ihualun.com
 G.eyouv.cn
-Byytcdn.com/others/avt/
+Byytcdn.com/others/avt/*_1
 Bvideospeedy.com/res/images/wuy0u.
 B/view/youkuvip/*ad.gif
 Xsf-express.com/.galleries/advertisement/
@@ -2322,7 +2343,7 @@ Bmomoshop.com.tw/goods/goodsdetail.
 Bbeephone.com.tw/ad-*.php
 A.beephone.com.tw/adlink.
 Gshm.com.cn/css/m.
-O.doubleclick.net/ddm/clk/*?http:
+O.doubleclick.net/ddm/*?http:
 Gbitauto.com/resourcefiles/play/play.
 Gbitauto.com/js/sense*.js
 Gbitautoimg.com/resourcefiles/0/*.swf
@@ -3745,7 +3766,6 @@ A.junguoguo.*?
 E>writeflashhtml("_swf=http*.swf*0", "_height=
 Osinaimg.cn/video/deco/
 Gtg.bielaiwan.*.js
-Bbokeboke.net/wp-content/uploads
 F_blank><img src="/ad/zt
 Gqz828.com/script/couplet_float
 Gnilongdao.com/include/js/copyright
@@ -4162,7 +4182,7 @@ Pa[href^="http://www.fyvps.com/buy"] img,a[href*="t.hly.com/?tid="] img {display
 Pa[href="http://youxi.66174.com/"] img {display:none;}
 Pa[href*=".2345.com/?"] img,a[href*=".33ip.com"] img,a[href*=".enkj.com"] img {display:none;}
 P.kf_qycn_com_cckf_welcomebox,#tanx-con-1,.game-ad-item,#playFlashad,.wumii-bottom-popup,a[href^="http://rd.wan.360.cn/reg"] img,.guokr-layer-beforelogin {display:none !important;}
-P#login_alert,.tipadds,#js_ads_banner_top,#js_ads_banner_top_slide,#top_ads0,#floatAd,#RightAd1,#snActive-wrap {display:none !important;}
+P#asto_box,#login_alert,.tipadds,#js_ads_banner_top,#js_ads_banner_top_slide,#top_ads0,#floatAd,#RightAd1,#snActive-wrap {display:none !important;}
 P#dlgg_left,#dlgg_right,#mito_footer_login,#bdztad,#SideVideoAD,.lianxi_gg,.guanggaowei_top,#hz6d_freeze_div,#kfivtwin,#kfpopupDiv,#miaov_float_layer {display:none !important;}
 P#doyoo_monitor,#doyoo_mon_mask,#ad_box1,#ad_box2,#ad_box_1,#sdad,#float_ad_div,#downmsg_emessage,#Tool_adv,[class^="tuzuanad"],[id^="_z_dl_d"] {display:none !important;}
 L/*00*/function __amscript_cd(k){var d=document;return(d.domain&&d.domain.indexOf&&d.domain.indexOf(k)!=-1)?1:0;};function __amscript_cl(j,k){var l=location;return(l[j]&&l[j].indexOf(k)!=-1)?1:0;};function __amscript_ge(i){var d=document;if(d.getElementById){return d.getElementById(i);}if(d.all){return d.all[i];}if(d.layers){return d.layers[i];}return 0;};function __amscript_wc(c){var d=document;try{var r=d.createTextNode(c),s=d.createElement('style'),a;s.type='text/css';if(s.styleSheet){s.styleSheet.cssText=r.nodeValue;}else{s.appendChild(r);}__amscript_ge('__amscript_MainScript').parentNode.appendChild(s);}catch(e){if(d.write){d.write("<"+"style type='text/css'>"+c+"<"+"/style>");}}};function __amscript_dw(c){try{document.write(c);}catch(e){}};__amscript_stop=function(){if(window.stop&&typeof(stop)=='function'){window.stop();}else{document.execCommand('Stop')};};function __amscript_gc(i){var d=document;if(d.getElementsByClassName){return d.getElementsByClassName(i);}return 0;};
@@ -4174,7 +4194,7 @@ L/*9b*/_gat._getTracker=_gat._createTracker=function(x){var o={_link:function(re
 Lif(__amscript_cd("tvf4.com")||__amscript_cd(".mfxk.com")||__amscript_cd("chinacaipu.com")||__amscript_cd("cngr.cn")||__amscript_cd("dabaoku.com")||__amscript_cd("happydown.com")||__amscript_cd("ouyaoxiazai.com")||__amscript_cd("sina.com.tw")||__amscript_cd("xuanxuan.com")||__amscript_cd("uzzf.")||__amscript_cd("cr173.")||__amscript_cd("sz1001.")){__amscript_wc('iframe {display:none;}');};
 Lif(__amscript_cd("zznews.")||__amscript_cd("www.163.")||__amscript_cd("23sc.cn")||__amscript_cd("enet.com.cn")||__amscript_cd(".h9t.net")||__amscript_cd("haokan5.com")||__amscript_cd("yicai.com")||__amscript_cd("news.cnyes.")||__amscript_cd("qqkj.cn")||__amscript_cd("xk77.")){__amscript_wc('[class^="ad"] {display:none;}');};
 Lif(__amscript_cd("chewen.")||__amscript_cd("tv.cntv.cn")||__amscript_cd("haogongju.")||__amscript_cd("faloo.")||__amscript_cd("www.alibuybuy.")){__amscript_wc('[class^="ad_"] {display:none;}');};
-Lif(__amscript_cd("baihei.")||__amscript_cd("hh010.")||__amscript_cd("ybvv.")||__amscript_cd("qhf.cm")||__amscript_cd(".imuyang.")||__amscript_cd(".mahoupao.")||__amscript_cd(".dengfeng.")||__amscript_cd("aayx.net")||__amscript_cd("99nets.")||__amscript_cd(".0562.")){__amscript_wc('#diy1 {display:none;}');};
+Lif(__amscript_cd("chaling.")||__amscript_cd("baihei.")||__amscript_cd("hh010.")||__amscript_cd("ybvv.")||__amscript_cd("qhf.cm")||__amscript_cd(".imuyang.")||__amscript_cd(".mahoupao.")||__amscript_cd(".dengfeng.")||__amscript_cd("aayx.net")||__amscript_cd("99nets.")||__amscript_cd(".0562.")){__amscript_wc('#diy1 {display:none;}');};
 Lif(__amscript_cd("tiexue.")){__amscript_wc('.jiangWuTang + .mTop10,a[href*=".junph."],.jph-goods,.ad, .AreaR_ad,.banner {display:none;}');};
 Lif(__amscript_cd("iplaysoft.")){__amscript_wc('.d336, .d250, .post > center,#sidebar_scroll_bdad,.widget:first-of-type,#section_event {display:none;}');};
 Lif(__amscript_cd("fankudo.")){__amscript_wc('#enhancedtextwidget-29,.adsense-right-big,.adsense-right-square {display:none;}');};
@@ -4265,7 +4285,7 @@ Lif(__amscript_cd(".plurk.")){__amscript_wc('#plurk_ads,#sliderAds,.adsense {dis
 Lif(__amscript_cd(".price.com.hk")){__amscript_wc('#ad1, #ad5, .tb,#ad0 {display:none;}');};
 Lif(__amscript_cd(".qianpo.com")){__amscript_wc('#btb.btb {height:70px !important;}');};
 Lif(__amscript_cd(".soku.")){__amscript_wc('#ab_282 {display:none;}');};
-Lif(__amscript_cd("udn.com")){__amscript_wc('#ec,#ad_mag,#udn_scupio_responsive_wrapper,#ad_300_100 {display:none;}');};
+Lif(__amscript_cd("udn.com")){__amscript_wc('#ad_curtain,#doctop,#ec,#ad_mag,#udn_scupio_responsive_wrapper,#ad_300_100 {display:none;}');};
 Lif(__amscript_cd(".xcar.com.cn")){__amscript_wc('#show_car,.txright_boxb,[id^="xcarWindow_"],[class^="adset"],[class^="adset"] div {display:none;} .adbox980 {display:none !important;}');};
 Lif(__amscript_cd(".xfastest.")){__amscript_wc('#ad270scupio,.AD800 {display:none;}');};
 Lif(__amscript_cd(".xilu.com")){__amscript_wc('.banner_bg,.shopLinks,.shehuibanner,.xladAdvList, .xladimg, .advtable,.bbs_topad,.pageleft>table,.rbox>.mt_10 {display:none;} .xlad {display:none !important;}');};
@@ -4442,15 +4462,15 @@ Lif(__amscript_cd(".163.com")){__amscript_wc('#layout-bobo,#layout-love,#layout-
 Lif(__amscript_cd("blog.163.")){__amscript_wc('#r_mlofteriframe,#r_mlofteriframe2,#r_mkaolaadv,.m-fixedPCAd,#loftertextlinkad,.postadlayer {display:none !important;}');};
 Lif(__amscript_cd("mail.163.com")||__amscript_cd("mail.126.com")){__amscript_wc('div[id$="_BannerDiv"],div[id$="_FooterDiv"],div[id$="_dvBlockInfo"],div[id$="_AdDiv"],.uR, #dvWelcomeRightUp, .appsJ, [id*="_adDiv"], [id*="dvReadAd"], #dvWelcomeAd2,#dvReadFlashAd {display:none;}');};
 Lif(__amscript_cd("reg.163.com")){__amscript_wc('#showPic {display:none;}');};
-Lif(__amscript_cd("image.baidu.")){__amscript_wc('#adsearch,#relecom54,.recom,.right-banner-area,#plz-head-banner,.recommend, .mod-promo, #only-lady-sec, #ecomContainer, #relEcom {display:none;}');};
-Lif(__amscript_cd("www.baidu.")||__amscript_cd("www1.baidu.")){__amscript_wc('.sftip_red, #ec-siva-container-657, #lm, div[tpl="softdown"], .tools .shouji,.ec_bdtg,#ec_im_containe,.ec_pp_f + br,.ec_pp_f {display:none;}');};
-Lif(__amscript_cd("xingqu.baidu.")||__amscript_cd("jump.bdimg.")||__amscript_cd("tieba.baidu.")||__amscript_cd("tieba.com")){__amscript_wc('#threadListGroupCnt,.game_banner_common_wapper,.per_list.j_per_list.per_list_frs,.thread_dir_ad,.thread_local_58,.spreadad,#baiduweishiDown,.game_tab,.game_content,.score_ecr_wrapper, #replyBusinessImg, #loan_ad_mod_a,#union_mod, .lot_wrap, .hgame_mod_theme1, .hgame_mod_theme2, #frs-list-game, .images_game_container, #cprotbad, [id*="lottery"], #ueg_policy_open img, #search_button.search_button,.l_banner,#j_worldcup_info_banner,.BAIDU_CLB_AD,.j_banner_post, .game_list_and_rank, #game_frs_head, #game_rank, .game_spread_thread, #guide_fc, #j_ten_years, #search_baidu_promote, .tb_poster_info.poster_success,.lzl_panel_wrapper p,.tb_poster_placeholder,#pop_frame,.wapapp_adv, [id^="spreadad_"],#pc2client {display:none !important;}');__amscript_addonload("PageData.user.is_login=true;");};
+Lif(__amscript_cd("image.baidu.")){__amscript_wc('.fcimgpage,.fcImgli,#adsearch,#relecom54,.recom,.right-banner-area,#plz-head-banner,.recommend, .mod-promo, #only-lady-sec, #ecomContainer, #relEcom {display:none !important;}');};
+Lif(__amscript_cd("www.baidu.")||__amscript_cd("www1.baidu.")){__amscript_wc('.s-tutorial-tip,.sftip_red, #ec-siva-container-657, #lm, div[tpl="softdown"], .tools .shouji,.ec_bdtg,#ec_im_containe,.ec_pp_f + br,.ec_pp_f {display:none;}');};
+Lif(__amscript_cd("xingqu.baidu.")||__amscript_cd("jump.bdimg.")||__amscript_cd("tieba.baidu.")||__amscript_cd("tieba.com")){__amscript_wc('.game_banner_common_wapper,.per_list.j_per_list.per_list_frs,.thread_dir_ad,.thread_local_58,.spreadad,#baiduweishiDown,.game_tab,.game_content,.score_ecr_wrapper, #replyBusinessImg, #loan_ad_mod_a,#union_mod, .lot_wrap, .hgame_mod_theme1, .hgame_mod_theme2, #frs-list-game, .images_game_container, #cprotbad, [id*="lottery"], #ueg_policy_open img, #search_button.search_button,.l_banner,#j_worldcup_info_banner,.BAIDU_CLB_AD,.j_banner_post, .game_list_and_rank, #game_frs_head, #game_rank, .game_spread_thread, #guide_fc, #j_ten_years, #search_baidu_promote, .tb_poster_info.poster_success,.lzl_panel_wrapper p,.tb_poster_placeholder,#pop_frame,.wapapp_adv, [id^="spreadad_"],#pc2client {display:none !important;}');__amscript_addonload("PageData.user.is_login=true;");};
 Lif(__amscript_cd("xingqu.baidu.")||__amscript_cd("jump.bdimg.")||__amscript_cd("tieba.baidu.")||__amscript_cd("tieba.com")){__amscript_wc('#duoku_servers_list,#game_live_list,.bonus_forum_aside,.u9_aside,#pop_frame,#encourage_entry,#j_star_bus_before,.advertise_right_index,.j_df_card,.kn_nine_wrap,#game_cover_head_wrapper,.app_forum_top_nav,li[data-daid],div[data-daid],.j_couplet,.order_repost_wrap,.frs_act_repost_wrapper_outter,.wanle_tab_tip,#global_notice_wrap,.firework_sender_wrap,#platform_left_float,.live_show_aside,.qipai_thread,.u9_head,.dasense,.game_banner,#game_forum {display:none !important;}');};
 Lif(__amscript_cd("zhidao.baidu.")){__amscript_wc('.cms-slide-lazy+div+div, #cms-company, #cms-scroll {display:none;} .adTopImg,.wgt-bottom-ask {display:none !important;}');};
 Lif(__amscript_cd("ifeng.com")){ads=[];AdRotator=function(){};__amscript_wc('.ad1000_2,#hslide_sPic_360,#hslide_sPic_baidu,.ad_btn,#veidoshowAd,div[class="adbox02"],.pic280,.Avt01,.Avt02,.ColBLAvt,.ColBRAvt,.ColDLAvt,.ColDRAvt,.ColELAvt,.ColFLAvt,.ColGLAvt,.FNewLAvt,.FNewRAvt,.FNewRAvtLisBox,.FNewRAvtLisBox02,.ad1000_box,.ad1000-2,.right .keyword,.pic950,#video_p,.ad_09,.ad_04,#box_img,#picAdposition,.pic300,div[id^="padhide_"],.adR330,.adL660,.ad200-4,.ad728_tit,.list022, .play_center, .picNews, .adcontent, .gg298, .busiBox, .c-ad, .trade, .adbest, .ad, .adbox03, .adL1000, .ad1000x90, .adR01, #v_code, .ad665, .fengjc02, .conRgg, .pic600, .riodel, .tit_ad01, .adbox .bord01, [class^="adlist"], [class^="adList"],[id$="CoupletId"],[id^="flash_outer_"],.label_3,#StreamMediaWrap,.pic1000 {display:none;} #questionDialogBox, #optimusPrimeContentId, .ad950, .topAd, .tit_ad,#adbest,#ifengAehovering_small,[id^="couplet3_"] {display:none !important;}');};
 Lif(__amscript_cd("finance.ifeng.")){__amscript_wc('.lccs,.rec {display:none;}');};
 Lif(location.href.indexOf("flat.vsa.com.cn/html/00001.")!=-1){window.open('','_parent','');window.opener='x';window.close();};
-Lif(__amscript_cd(".baidu.")){__amscript_wc('#women-picwall,#mabox,#j-ad-first,#j-ad-side,.advertise,.news_ad,.top-banner-ad-wrap,.rightAd-skin,#ad,.sam_iebrowser_banner,div[tpl^="ecr_pc_game_"],.fsblock,#coupletBanner,div[id$="_canvas"],#content_left>table,#content_left>div:not([id]),.l-header-ad,#gamePromo,#search-union-ad,.text-advertise, .tran-download-ad, #ecom_ad_mod,#share_ad_info_panl,table[tpl="newsoftdown"],#bdfs0,#bdfs1,#bdfs2,#bdfs3,#bdfs4,#bdfs5,[videoadv],#gamepromo,#qrcode-wrapper,#search_bottomad,#toptip,.pause-ad,#s_shoping_guide,.ad-material-wrapper,#left-promotion,.ecom,[class*="wgt-ads"],#ec_im_container,.ec_im_container {display:none !important;} .skin-clear .top-banner {background:none !important;} .mb-layout-bd.column4 {width:auto;}');};
+Lif(__amscript_cd(".baidu.")){__amscript_wc('#ader,#women-picwall,#mabox,#j-ad-first,#j-ad-side,.advertise,.news_ad,.top-banner-ad-wrap,.rightAd-skin,.sam_iebrowser_banner,div[tpl^="ecr_pc_game_"],.fsblock,#coupletBanner,div[id$="_canvas"],#content_left>table,#content_left>div:not([id]),.l-header-ad,#gamePromo,#search-union-ad,.text-advertise, .tran-download-ad, #ecom_ad_mod,#share_ad_info_panl,table[tpl="newsoftdown"],#bdfs0,#bdfs1,#bdfs2,#bdfs3,#bdfs4,#bdfs5,[videoadv],#gamepromo,#qrcode-wrapper,#search_bottomad,#toptip,.pause-ad,#s_shoping_guide,.ad-material-wrapper,#left-promotion,.ecom,[class*="wgt-ads"],#ec_im_container,.ec_im_container {display:none !important;} .skin-clear .top-banner {background:none !important;} .mb-layout-bd.column4 {width:auto;}');};
 Lif(__amscript_cd("wenku.baidu.com")){__amscript_wc('.redpacket-dialog {display:none !important;}');};
 Lif(__amscript_cd("cd.qq.")){__amscript_wc('.wrap.mt1,.tl_ad {display:none;}');};
 Lif(__amscript_cd("find.qq.")){__amscript_wc('#seller-list {display:none !important;}');};
@@ -5045,7 +5065,7 @@ Lif(__amscript_cd("wn789.")){__amscript_wc('.d_textbanner,.ivad,#lograd,.logtad,
 Lif(__amscript_cd("zyy123.")){__amscript_wc('#fdadv,.tg250x250-1,.tg250x250-2 {display:none;}');};
 Lif(__amscript_cd("wenku8.")){__amscript_wc('#tonglan {display:none;}');};
 Lif(__amscript_cd("hk3318.")){__amscript_wc('.ad990x130,.ad990,.ad990x90 {display:none;}');};
-Lif(__amscript_cd("creaders.")){__amscript_wc('div[class^="jc"],.ggbox1,.ggbox {display:none;}');};
+Lif(__amscript_cd("creaders.")){__amscript_wc('a[title^="www.136888.com/new/ad."],div[class^="jc"],.ggbox1,.ggbox {display:none;}');};
 Lif(__amscript_cd("1ting.")){__amscript_wc('#tingx_5 {display:none;}');};
 Lif(__amscript_cd("phpfans.")){__amscript_wc('.banout {display:none;}');};
 Lif(__amscript_cd("fznews.")){__amscript_wc('.kuang100_right {display:none;}');};
@@ -5091,7 +5111,7 @@ Lif(__amscript_cd(".999.com")){__amscript_wc('#bot_gou,#j_tab_taobao,.midd-fck,a
 Lif(__amscript_cd("azofreeware.")){__amscript_wc('#HTML1,#HTML3 {display:none;}');};
 Lif(__amscript_cd("niusnews.")){__amscript_wc('#evtBot {display:none !important;}');};
 Lif(__amscript_cd("autofan.")){__amscript_wc('.ads_b {display:none;}');};
-Lif(__amscript_cd("quumii.")){__amscript_wc('.baidu960,.adpart {display:none;}');};
+Lif(__amscript_cd("quumii.")){__amscript_wc('.huatai,.baidu960,.adpart {display:none;}');};
 Lif(__amscript_cd("css88.")){__amscript_wc('#text-5 {display:none;}');};
 Lif(__amscript_cd(".cs.com.")){__amscript_wc('#dyjAdLayer1,#Qcode {display:none;}');};
 Lif(__amscript_cd("simplecd.")){__amscript_wc('.ad-entry-sidebar-1,.ad-entry-sidebar-2,.ad-in-entry {display:none;}');};
@@ -5130,7 +5150,6 @@ Lif(__amscript_cd("greedio.")){__amscript_wc('#adBox {height:10px !important;}')
 Lif(__amscript_cd("myday.")){__amscript_wc('.myday_ad_950,.myday_ad_left,.myday_ad_right {display:none;}');};
 Lif(__amscript_cd("njdaily.")){__amscript_wc('.ad,a#ads-qadjs-link {display:none;}');};
 Lif(__amscript_cd("nen.com.")){__amscript_wc('.topAd {display:none;}');};
-Lif(__amscript_cd("right.com.")){__amscript_wc('#diy1 {display:none;}');};
 Lif(__amscript_cd("taiwan.")){__amscript_wc('div[id^="2014sy_gg"] {display:none;}');};
 Lif(__amscript_cd("elecinfo.")){__amscript_wc('.t-ad {display:none;}');};
 Lif(__amscript_cd("guidaye.")){__amscript_wc('.neirongs {display:none;}');};
@@ -5340,7 +5359,7 @@ Lif(__amscript_cd("manhuadao.")){__amscript_wc('#bd1 {display:none;}');};
 Lif(__amscript_cd("xyzc.")){__amscript_wc('.xyzc_ad,.xyzc_rightad {display:none;}');};
 Lif(__amscript_cd("022net.")){__amscript_wc('.hgg,.sidegg,.newssidead {display:none;}');};
 Lif(__amscript_cd("51junshi.")){__amscript_wc('.dbgg {display:none;}');};
-Lif(__amscript_cd(".cww.net.")){__amscript_wc('#cwwtr4298_1 {display:none;}');};
+Lif(__amscript_cd(".cww.net.")){__amscript_wc('.guanggaolan,.xiatu1 {display:none;}');};
 Lif(__amscript_cd("fxingw.")){__amscript_wc('.banner,.artAdBox,.rightAD1 {display:none;}');};
 Lif(__amscript_cd("mcxiaobu.")){__amscript_wc('#div_sidebar_ads,dl[id^="divFunction"] {display:none;}');};
 Lif(__amscript_cd("yuqingcn.")){__amscript_wc('.rboxad {display:none;}');};
@@ -5535,7 +5554,7 @@ Lif(__amscript_cd(".89dm.com")){__amscript_wc('#zerodm_float {display:none !impo
 Lif(__amscript_cd("zeekmagazine.")){__amscript_wc('#text-10,#text-9,.header-top-right {display:none;}');};
 L__amscript_addonload("if(typeof(checkWait)=='function'&&typeof(wait)!='undefined'){wait=1;};");
 Lif(__amscript_cd(".1024gc.")||__amscript_cd(".1024gongchang.")||__amscript_cd(".1024hegongchang.")||__amscript_cd(".1024hgc.")){__amscript_wc('a[href^="/ad/"] {display:none;}');};
-Lif(__amscript_cd("btkitty.")||__amscript_cd("btdigg.")){__amscript_wc('.list-con > dl:first-child {display:none;}');};
+Lif(__amscript_cd("btkitty.")||__amscript_cd("btdigg.")){__amscript_wc('.ad,.list-con > dl:first-child {display:none;}');};
 Lif(__amscript_cd("btlibrary.")){__amscript_wc('.list-content > .item:first-child {display:none;}');};
 Lif(__amscript_cd("diggbt.")){__amscript_wc('.list-con > .item:first-child {display:none;}');};
 Lif(__amscript_cd("cililian.")){__amscript_wc('.hotwords a[href^="http"],#side_right {display:none;}');};
@@ -5598,9 +5617,13 @@ Lif(__amscript_cd("mopiaoyao.")){__amscript_wc('#sidebar center > a > img,#gg {d
 Lif(__amscript_cd("shunwang.")){__amscript_wc('.ola_program,[id^="ad_"] {display:none !important;}');};
 Lif(__amscript_cd("tingvoa.")){__amscript_wc('#textadbox,.rightgood,#articletopimg {display:none;}');};
 Lif(__amscript_cd("backchina.")){__amscript_wc('.newsad {display:none;}');};
+Lif(__amscript_cd("landiannews.")){__amscript_wc('.loadad {display:none;}');};
+Lif(__amscript_cd("zhanqi.")){__amscript_wc('.new-advertising-area {display:none;}');};
+Lif(__amscript_cd(".flvcd.com")){__amscript_trapevent("DOMContentLoaded","if(typeof(doPlay)=='function'&&__amscript_ge('x')){doPlay();};");};
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
+R|onclick="avdplay(|id="x" onclick="(
 R|"http://tv.sohu.com/upload/swf/20*/main.swf";|"/upload/swf/pl/20130306/Main.swf";
 R|"http://tv.sohu.com/upload/swf/p2p/20*/main.swf";|"/upload/swf/pl/20130306/Main.swf";
 R|"http://tv.sohu.com/upload/swf/smallver/20*/main.swf";|"/upload/swf/pl/20130306/Main.swf";
@@ -6038,6 +6061,7 @@ B/galleries.videosz.*.swf
 B.alimama.cn/cms/
 B.alimama.cn/widget/
 B.doubleclick.
+G.doubleclick.
 B.jdunion.com/company/
 B/pic.jdunion.*.swf
 B.union.sogou.*?
@@ -8045,7 +8069,6 @@ Gcbanners.virtuagirlhd.com
 Gchitika.net
 Gcontextweb.com
 Gcpmstar.com
-Gdoubleclick.net
 Gexponential.com
 Gfastclick.net
 Ggoogleadservices.com
