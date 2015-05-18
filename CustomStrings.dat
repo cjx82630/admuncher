@@ -1,4 +1,5 @@
-Xlist version 150518a
+Xlist version 150518
+X.itc.cn/site/play/v3/inc.
 Bright.com.cn/logo/*.gif
 G.892155.com
 G.mengheng.net
@@ -5621,11 +5622,15 @@ Lif(__amscript_cd("backchina.")){__amscript_wc('.newsad {display:none;}');};
 Lif(__amscript_cd("landiannews.")){__amscript_wc('.loadad {display:none;}');};
 Lif(__amscript_cd("zhanqi.")){__amscript_wc('.new-advertising-area {display:none;}');};
 Lif(__amscript_cd(".flvcd.com")){__amscript_trapevent("DOMContentLoaded","if(typeof(doPlay)=='function'&&__amscript_ge('x')){doPlay();};");};
-Lwindow.vrs_playor="http://dxdragon.cwsurf.de/cleanplayer/player/sohu/sohu_live.swf";
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
 R|onclick="avdplay(|id="x" onclick="(
+R|"http://tv.sohu.com/upload/swf/20*/main.swf";|"/upload/swf/pl/20130306/Main.swf";
+R|"http://tv.sohu.com/upload/swf/p2p/20*/main.swf";|"/upload/swf/pl/20130306/Main.swf";
+R|"http://tv.sohu.com/upload/swf/smallver/20*/main.swf";|"/upload/swf/pl/20130306/Main.swf";
+R|"http://220.181.90.161/webplayer/main.swf";|"/upload/swf/pl/20130306/Main.swf";
+R|"http://220.181.90.161/testplayer/main*.swf";|"/upload/swf/pl/20130306/Main.swf";
 R|<adlist><|<xdList><
 R|</adlist><|</xdList><
 R|ck_flashvars=**t:"15",|ck_flashvars=*t:'1',
