@@ -1,4 +1,4 @@
-Xlist version 150523
+Xlist version 150524
 Gwanwan.sina.com.cn/sinasupersport/back/
 Gwanwan.sina.com.cn/kb/
 Glianmeng.360.cn/media/news/union_
@@ -5648,7 +5648,7 @@ Lif(__amscript_cd("landiannews.")){__amscript_wc('.loadad {display:none;}');};
 Lif(__amscript_cd("zhanqi.")){__amscript_wc('.new-advertising-area {display:none;}');};
 Lif(__amscript_cd(".flvcd.com")){__amscript_trapevent("DOMContentLoaded","if(typeof(doPlay)=='function'&&__amscript_ge('x')){doPlay();};");};
 Lwindow.vrs_playor="http://tv.sohu.com/upload/swf/pl/20130306/Main.swf";
-Lwindow.vrs_player="http://tv.sohu.com/upload/swf/pl/20130306/Main.swf";
+L__amscript_trapevent("DOMContentLoaded","if(typeof(c)=='function'&&document.getElementById('x')){c();};");
 Lif(__amscript_cd("168gamer.")){__amscript_wc('.a_fad1,.a_tad {display:none;}');};
 Lif(__amscript_cd(".hket.")){__amscript_wc('div[id^="placeholder-advertisement-"] {display:none;}');};
 Lif(__amscript_cd("juksy.")){__amscript_wc('.juksy_ads {display:none;}');};
@@ -5660,6 +5660,7 @@ Lif(__amscript_cd("caoliushequ1024.")){__amscript_wc('img[src*="sinaimg."] {disp
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
+R|vrs_player,|vrs_playor,
 R|onclick="avdplay(|id="x" onclick="(
 R|<adlist><|<xdList><
 R|</adlist><|</xdList><
