@@ -1,4 +1,4 @@
-Xlist version 150524
+Xlist version 150524a
 Gwanwan.sina.com.cn/sinasupersport/back/
 Gwanwan.sina.com.cn/kb/
 Glianmeng.360.cn/media/news/union_
@@ -5660,7 +5660,8 @@ Lif(__amscript_cd("caoliushequ1024.")){__amscript_wc('img[src*="sinaimg."] {disp
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
-R|vrs_player,|vrs_playor,
+R|.playerurl=vrs_player|.playerUrl=vrs_playor
+R|s=new swfobject(vrs_player|s=new SWFObject(vrs_playor
 R|onclick="avdplay(|id="x" onclick="(
 R|<adlist><|<xdList><
 R|</adlist><|</xdList><
