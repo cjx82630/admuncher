@@ -1,4 +1,6 @@
-Xlist version 150528
+Xlist version 150601
+G.toourbb.com
+G.andmejs.com
 G.sohu.com/interaction/get/getlistbyvidforvrs.
 Glinkvans.com
 Gbnhtml.com
@@ -5765,12 +5767,13 @@ R|"+antiads+"&t=|'+'0'+'&t=
 R|if(antiads=="1"|if(1>2
 R|<singlesec>15</singlesec>|
 R|document.writeln(*system.wav\|return;
+R|,"skip":1,"p":1,"bak":[{|,"SKIP":1,"P":0,"BAK":[{
 R|1,"skip":1,"js"|0,"SKIP":1,"JS"
 R|1,"skip":1,"val"|0,"SKIP":1,"VAL"
-R|:"http\u003a//k\u002eyouku|:"http\u003a//policy
-R|:"http://k.youku|:"http://policy
-R|:"http\u003a//static\u002eatm|:"http\u003a//policy
-R|:"http://static.atm|:"http://policy
+R|:"http\u003a//k\u002eyouku\u002com/a|:"http\u003a//policy\u002net/a
+R|:"http://k.youku.com/|:"http://policy.net/a
+R|:"http\u003a//static\u002eatm|:"http\u003a//policy\u002eatm
+R|:"http://static.atm|:"http://policy.atm
 R|{"adlist":[{"picurl"|//
 R|t->20}</flashvars>|t->0}</flashvars>
 R|var flashvars={**f:**d:"*",**t:"*"|var flashvars={*f:**t:"0"
