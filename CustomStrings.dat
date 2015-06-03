@@ -1,4 +1,4 @@
-Xlist version 150603a
+Xlist version 150603b
 Xcb.baidu.com/ecom?di=933929&
 G.toourbb.com
 G.andmejs.com
@@ -5768,7 +5768,7 @@ R|if(antiads=="1"|if(1>2
 R|<singlesec>15</singlesec>|
 R|document.writeln(*system.wav\|return;
 R|"}],"p":1}|"}],"P":0}
-R|,"p":1,"bak"|,"P":0,"BAK"
+R|,"p":1,"bak":[{|,"P":0,"BAK":[{
 R|:"http://k.youku.com/|:"http://policy.net/a
 R|1,"skip":1,"js"|0,"SKIP":1,"JS"
 R|1,"skip":1,"val"|0,"SKIP":1,"VAL"
