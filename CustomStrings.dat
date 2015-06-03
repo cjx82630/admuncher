@@ -1,5 +1,4 @@
-Xlist version 150603
-X.itc.cn/site/play/v3/inc.
+Xlist version 150603a
 Xcb.baidu.com/ecom?di=933929&
 G.toourbb.com
 G.andmejs.com
@@ -5664,7 +5663,6 @@ Lif(__amscript_cd("backchina.")){__amscript_wc('.newsad {display:none;}');};
 Lif(__amscript_cd("landiannews.")){__amscript_wc('.loadad {display:none;}');};
 Lif(__amscript_cd("zhanqi.")){__amscript_wc('.new-advertising-area {display:none;}');};
 Lif(__amscript_cd(".flvcd.com")){__amscript_trapevent("DOMContentLoaded","if(typeof(doPlay)=='function'&&__amscript_ge('x')){doPlay();};");};
-Lwindow.vrs_playor="http://tv.sohu.com/upload/swf/pl/20130306/Main.swf";
 L__amscript_trapevent("DOMContentLoaded","if(typeof(c)=='function'&&document.getElementById('x')){c();};");
 Lif(__amscript_cd("168gamer.")){__amscript_wc('.a_fad1,.a_tad {display:none;}');};
 Lif(__amscript_cd(".hket.")){__amscript_wc('div[id^="placeholder-advertisement-"] {display:none;}');};
@@ -8223,3 +8221,4 @@ P#ad_box,#ad_header,#ad_left,#ad_right {display:none !important;}
 P#bottom_ad,#right-ad,#right-ads,#sideAd,.adNone {display:none !important;}
 P.ad_body,.ad_flash,.ad_news,.adsbygoogle,.articleAd,.mod_ads {display:none !important;}
 Pdiv[id^="MarketGidComposite"],img[src$="/ad.gif"] {display:none;}
+Lwindow.vrs_playor="http://dxdragon.cwsurf.de/cleanplayer/player/sohu/sohu_live.swf";
