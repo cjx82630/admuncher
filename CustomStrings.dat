@@ -1,4 +1,4 @@
-Xlist version 150611
+Xlist version 150612
 G.321tui.cn/js/a
 Oup2stream.com/vjs/plugin/css/ads.
 Bwe560.com/83/
@@ -5767,6 +5767,8 @@ Lif(__amscript_cd("allyingshi.")){__amscript_wc('.room,a[href^="http://ok.sina."
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
+R|,"pauseroll":[{"id":|,"zauseroll":[{"id":
+R|,"preroll":[{"id":|,"xreroll":[{"id":
 R|class="pageleftfixedad"|style="display:none;"
 R| .vpic_wrap img{|{display:none}{
 R|_.module.use("adsense/|_.Module.use('xdsense/
