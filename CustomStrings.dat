@@ -1,4 +1,9 @@
-Xlist version 150612
+Xlist version 150614
+Gxiaomengku.com/static/template/cms/v3/js/activity.
+Gmahua.com/www/default/js/replace_
+Gmianbao99.com/a/mianbao/indextan.
+Gainunu.com/vad.
+Giqshw.com/d/js/m/thea
 G.321tui.cn/js/a
 Oup2stream.com/vjs/plugin/css/ads.
 Bwe560.com/83/
@@ -4301,7 +4306,7 @@ L/*8b*/x.t=x.tl=x.setInitValOnce=x.detectFlash=x.getValOnce=x.getNewRepeat=x.gs=
 L/*9a*/_gaq={concat:function(){},unshift:function(){},push:function(x){if(typeof(x)=='function'){x();}else if(x&&x[1]){if(x[0].indexOf('_link')!=-1){location.href=x[1];}}}};_gat={_anonymizeIp:function(){},_getTrackerByName:function(){this._trackEvent=this._getAccount=function(){};this._getLinkerUrl=function(x){if(x){return x;}};return this;}};mainacct="";
 L/*9b*/_gat._getTracker=_gat._createTracker=function(x){var o={_link:function(redirect){if(redirect){window.location.replace(redirect);}},_createEventTracker:function(){var obj2={_trackEvent:function(){}};return obj2;},_getLinkerUrl:function(x){if(x){return x;}}};o._setDomainName=o._initData=o._trackPageview=o._trackPageLoadTime=o._setVar=o._setAllowLinker=o._setAllowHash=o._setLocalRemoteServerMode=o._setSampleRate=o._setSessionTimeout=o._setAllowAnchor=o._setCookieTimeout=o._trackEvent=o._setLocalGifPath=o._addOrganic=o._setCookiePath=o._setCampNameKey=o._addIgnoredOrganic=o._getAccount=o._linkByPost=o._setCampSourceKey=o._clearOrganic=o._addTrans=o._addItem=o._trackTrans=o._setCustomVar=o._addIgnoredRef=o._setCampaignCookieTimeout=o._setDetectTitle=o._getVisitorCustomVar=o.init=o._setSessionCookieTimeout=function(){};return o;};
 Lif(__amscript_cd("tvf4.com")||__amscript_cd(".mfxk.com")||__amscript_cd("chinacaipu.com")||__amscript_cd("cngr.cn")||__amscript_cd("dabaoku.com")||__amscript_cd("happydown.com")||__amscript_cd("ouyaoxiazai.com")||__amscript_cd("sina.com.tw")||__amscript_cd("xuanxuan.com")||__amscript_cd("uzzf.")||__amscript_cd("cr173.")||__amscript_cd("sz1001.")){__amscript_wc('iframe {display:none;}');};
-Lif(__amscript_cd("zznews.")||__amscript_cd("www.163.")||__amscript_cd("23sc.cn")||__amscript_cd("enet.com.cn")||__amscript_cd(".h9t.net")||__amscript_cd("haokan5.com")||__amscript_cd("yicai.com")||__amscript_cd("news.cnyes.")||__amscript_cd("qqkj.cn")||__amscript_cd("xk77.")){__amscript_wc('[class^="ad"] {display:none;}');};
+Lif(__amscript_cd("zznews.")||__amscript_cd("www.163.")||__amscript_cd("23sc.cn")||__amscript_cd("enet.com.cn")||__amscript_cd(".h9t.net")||__amscript_cd("haokan5.com")||__amscript_cd("news.cnyes.")||__amscript_cd("qqkj.cn")||__amscript_cd("xk77.")){__amscript_wc('[class^="ad"] {display:none;}');};
 Lif(__amscript_cd("chewen.")||__amscript_cd("tv.cntv.cn")||__amscript_cd("haogongju.")||__amscript_cd("faloo.")||__amscript_cd("www.alibuybuy.")){__amscript_wc('[class^="ad_"] {display:none;}');};
 Lif(__amscript_cd("chaling.")||__amscript_cd("baihei.")||__amscript_cd("hh010.")||__amscript_cd("ybvv.")||__amscript_cd("qhf.cm")||__amscript_cd(".imuyang.")||__amscript_cd(".mahoupao.")||__amscript_cd(".dengfeng.")||__amscript_cd("aayx.net")||__amscript_cd("99nets.")||__amscript_cd(".0562.")){__amscript_wc('#diy1 {display:none;}');};
 Lif(__amscript_cd("tiexue.")){__amscript_wc('.jiangWuTang + .mTop10,a[href*=".junph."],.jph-goods,.ad, .AreaR_ad,.banner {display:none;}');};
@@ -4996,7 +5001,7 @@ Lif(__amscript_cd("zhuankebar.")){__amscript_wc('#contact+#side-dfn,#article-cnt
 Lif(__amscript_cd("oogps.")){__amscript_wc('.a2,.a3,.adbg {display:none;}');};
 Lif(__amscript_cd(".titan007.")){__amscript_wc('tr[id^="tr_ad"],#ad,#ckmenu {display:none;}');};
 Lif(__amscript_cd("huacolor.com")){__amscript_wc('a[href^="/setup.asp?id="],script+a {display:none !important;}');};
-Lif(__amscript_cd("youku.")){__amscript_wc('.pop-prompt-box,#ab_26 {display:none;}');document.cookie='view=1;domain=.youku.com;path=/;expires=';};
+Lif(__amscript_cd("youku.")){__amscript_wc('.pop-prompt-box,#ab_26 {display:none;} #lotteryToolbar,#lotteryToolbarBig {display:none !important;}');document.cookie='view=1;domain=.youku.com;path=/;expires=';};
 Lif(__amscript_cd("qikzj.")){__amscript_wc('.banner.push-right {display:none;}');};
 Lif(__amscript_cd("jianhucheng.")){__amscript_wc('#diy1,#diynavtop {display:none;}');};
 Lif(__amscript_cd("cnyw.")){__amscript_wc('#ad_box_2009_04,#diy1,#diynavtop,div[id^="portal_ad_"] {display:none;}');};
