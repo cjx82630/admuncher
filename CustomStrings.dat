@@ -1,4 +1,9 @@
-Xlist version 150623
+Xlist version 150625
+O.dnvod.eu/upload/ads/*.jpg
+Gdnvod.eu/upload/image/*.swf
+Bdnvod.eu/upload/image/*.gif
+G/adpro.js
+E>is_adblock
 G.you85.cn/i360/
 Ofeng.com/aodoo3/images/54f86e822ee42.
 G.zoosnet.net
@@ -5212,7 +5217,7 @@ Lif(__amscript_cd("phpfans.")){__amscript_wc('.banout {display:none;}');};
 Lif(__amscript_cd("fznews.")){__amscript_wc('.kuang100_right {display:none;}');};
 Lif(__amscript_cd("hongfen.")){__amscript_wc('.main_adser {display:none;}');};
 Lif(__amscript_cd("7lili.")){__amscript_wc('div[id^="ad_"] {display:none;}');};
-Lif(__amscript_cd("dnvod.")){__amscript_wc('.r-ad4,.r-ad2,.DHB {display:none;} #outwin {display:none !important;}');};
+Lif(__amscript_cd("dnvod.")){__amscript_wc('a[href*="/HitOnAds."] img,.r-ad4,.r-ad2,.DHB {display:none;} #outwin {display:none !important;}');};
 Lif(__amscript_cd("3qzw.")){__amscript_wc('.ban1 {display:none;}');};
 Lif(__amscript_cd("xxdm.")){__amscript_wc('#tiepianDIV {display:none;}');};
 Lif(__amscript_cd("ipeen.")){__amscript_wc('.ad,#bar-header {display:none;}');};
