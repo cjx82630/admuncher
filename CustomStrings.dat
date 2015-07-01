@@ -1,4 +1,21 @@
-Xlist version 150626
+Xlist version 150701
+Gwannianli.com.cn/style/ad_
+O.p9.com.tw/upload/adimages/
+Bmy0832.com/bbs/tem/12.
+Gmoneyweekly.com.tw/uc/jqueryjson.aspx/mwad
+Bmoneyweekly.com.tw/uploads/ad/*970x
+Xitc.cn/public_photo/advert/
+Bftchinese.com/m/marketing/ad.
+O/61.164.108.184/tb/*.gif
+B/61.164.108.184/*.swf
+B/61.164.108.184/*.gif
+A.cari.com.my/daybanner/?
+Bchacuo.net/images/3.jpg
+Bchacuo.net/images/2.jpg
+Bchacuo.net/images/1.jpg
+Bcodeforge.cn/images/banner.
+Gbaidu.com/tbliveact/data/xiu8/
+Gbaidu.com/resource/baichuan/
 O.dnvod.eu/upload/ads/*.jpg
 Gdnvod.eu/upload/image/*.swf
 Bdnvod.eu/upload/image/*.gif
@@ -89,8 +106,8 @@ Gzaixianlu5.com/js/
 B/yythems/images/tuiguang.
 B/yesky/images/*/baidu-
 I"200px" src="http://pic.moe-acg.
-Bmoe-acg.us/images/*/360x360
-Bmoe-acg.us/images/*/1225x130
+Bmoe-acg.*/360x360
+Bmoe-acg.*/1225x130
 G.uoyrsd.com
 G.81c.cn
 G.xabaitai.com
@@ -1178,7 +1195,7 @@ Bhkwb.net/images/yp.
 Ghaochi123.com/js/fun_effects_ht9.
 Bgigacircle.com/images/*720x85.
 Bgigacircle.com/images/*250x250.
-Xgimhoy.com/advertisement.
+Xgimhoy.*/advertisement.
 Beprice.cn/image/upload/ad/
 Bbtbook.net/static/img/880x60.
 Bbtcherry.com/images/ad_
@@ -2416,9 +2433,6 @@ B21yq.com/mg/21yq/
 Gchinaz.com/2011code_images/topright.
 Gchinaz.com/2011code_images/soft
 Gchinaz.com/2011code_images/a_
-Bsinaimg.cn/mw690/ea495f08gw1egqwdegrplj20i203zmz2.
-Bsinaimg.cn/mw690/ea495f08gw1egqwdf1h2mj208c04rt91.
-Bfulikong.com/images/yulecheng
 Bwowody.net/public/wowo/*play_
 Bwowody.net/public/wowo/2345.
 B51ztzj.com/res/web/img/pic/inshow.
@@ -2458,8 +2472,6 @@ Gddooo.com/duoduo/
 Bw3cplus.com/sites/default/files/banner
 Otingbook.com/images/ad/
 Bhuanwen.com/public/images/banner/
-Gfbook.net/images_new/r.
-Gfbook.net/images_new/l.
 Ghongshu.com/hs/
 X.blemall.com
 Gjxold.com/index.php?m=poster&
@@ -4061,7 +4073,6 @@ Bsame.stockstar.
 G.cn/js/ad.
 G.bjmubao.com
 G/jjwx-tc.
-G.033.com/
 G.xylmw.com
 Bjm*/images/ad
 B090.com/portal/
@@ -4329,7 +4340,7 @@ Pa[href="http://youxi.66174.com/"] img {display:none;}
 Pa[href*=".2345.com/?"] img,a[href*=".33ip.com"] img,a[href*=".enkj.com"] img {display:none;}
 P.kf_qycn_com_cckf_welcomebox,#tanx-con-1,.game-ad-item,#playFlashad,.wumii-bottom-popup,a[href^="http://rd.wan.360.cn/reg"] img,.guokr-layer-beforelogin {display:none !important;}
 P#asto_box,.tipadds,#js_ads_banner_top,#js_ads_banner_top_slide,#top_ads0,#floatAd,#RightAd1,#snActive-wrap {display:none !important;}
-P#dlgg_left,#dlgg_right,#mito_footer_login,#bdztad,#SideVideoAD,.lianxi_gg,.guanggaowei_top,#hz6d_freeze_div,#kfivtwin,#kfpopupDiv,#miaov_float_layer {display:none !important;}
+P#mito_footer_login,#bdztad,#SideVideoAD,.lianxi_gg,.guanggaowei_top,#hz6d_freeze_div,#kfivtwin,#kfpopupDiv,#miaov_float_layer {display:none !important;}
 P#doyoo_monitor,#doyoo_mon_mask,#ad_box1,#ad_box2,#ad_box_1,#sdad,#float_ad_div,#downmsg_emessage,#Tool_adv,[class^="tuzuanad"],[id^="_z_dl_d"] {display:none !important;}
 L/*00*/function __amscript_cd(k){var d=document;return(d.domain&&d.domain.indexOf&&d.domain.indexOf(k)!=-1)?1:0;};function __amscript_cl(j,k){var l=location;return(l[j]&&l[j].indexOf(k)!=-1)?1:0;};function __amscript_ge(i){var d=document;if(d.getElementById){return d.getElementById(i);}if(d.all){return d.all[i];}if(d.layers){return d.layers[i];}return 0;};function __amscript_wc(c){var d=document;try{var r=d.createTextNode(c),s=d.createElement('style'),a;s.type='text/css';if(s.styleSheet){s.styleSheet.cssText=r.nodeValue;}else{s.appendChild(r);}__amscript_ge('__amscript_MainScript').parentNode.appendChild(s);}catch(e){if(d.write){d.write("<"+"style type='text/css'>"+c+"<"+"/style>");}}};function __amscript_dw(c){try{document.write(c);}catch(e){}};__amscript_stop=function(){if(window.stop&&typeof(stop)=='function'){window.stop();}else{document.execCommand('Stop')};};function __amscript_gc(i){var d=document;if(d.getElementsByClassName){return d.getElementsByClassName(i);}return 0;};
 L/*3a*/function __amscript_try(trycode){var a=navigator.userAgent.toLowerCase();var b=parseInt(navigator.appVersion);if((a.indexOf("mozilla")!=-1&&a.indexOf("compatible")==-1&&b>=5)||(a.indexOf("opera")!=-1&&b>=6)||(a.indexOf("msie")!=-1&&b>=4)){return eval("try {"+trycode+"} catch(e) { 0 };");}else{__amscript_bb();return 0;}};function __amscript_bb(){alert("Ad Muncher's latest filter list requires a newer browser than the one you are currently using.\n\nWe recommend upgrading to the latest version of the Opera browser, as available from:\n\nhttp://www.opera.com/");};function __amscript_getxhr(){var x=new Array("new XMLHttpRequest()","new ActiveXObject('MSXML2.XMLHTTP')","new ActiveXObject('Microsoft.XMLHTTP')");for(var i=0;i<x.length;i++){var xhr=__amscript_try(x[i]);if(xhr)return xhr;}__amscript_bb();return 0;};
@@ -4385,11 +4396,10 @@ Lif(__amscript_cd("verycd.gdajie.")){__amscript_wc('#predetail,th[colspan="3"] {
 Lif(__amscript_cd("kanxi123.")){__amscript_wc('.ad3_new,.viewt_77 {display:none;}');};
 Lif(__amscript_cd("club.kdnet.")){__amscript_wc('.banner,#dispbbs39,#dispbbs30,.slide-banner {display:none !important;}');};
 Lif(__amscript_cd("laishuwu.")){__amscript_wc('#p_ad_b2, #p_ad_b1 {display:none;}');};
-Lif(__amscript_cd("haosou.")||__amscript_cd(".so.com")){__amscript_wc('.mh-adIco,.pc_app,.atom-adv,#e_idea_left,#e_idea_pp,#qiyu-brand-container,.garllery_ad,#mohe-etao, #mohe-xianpei_side, .spread {display:none;} .js-mh-ad-abtest {display:none !important;}');};
+Lif(__amscript_cd("haosou.")||__amscript_cd(".so.com")){__amscript_wc('#mohe-etao_shangye,.mh-adIco,.pc_app,.atom-adv,#e_idea_left,#e_idea_pp,#qiyu-brand-container,.garllery_ad,#mohe-etao, #mohe-xianpei_side, .spread {display:none;} .js-mh-ad-abtest {display:none !important;}');};
 Lif(__amscript_cd("zazww.")){__amscript_wc('[id^="ads_c_"] {display:none !important;}');};
 Lif(__amscript_cd("oeeee.com")){__amscript_wc('.left-clumb-gray-ad.mtl0px.clearfix,[class^="ad-"],.textad-960-65.clearfix.c-gray,#lj.clearfix {display:none !important;} .content.clearfix {height:auto !important;}');};
 Lif(__amscript_cd(".jb51.net")){__amscript_wc('#liad_list {display:none;}');};
-Lif(__amscript_cd("fbook.net")){__amscript_wc('.head-a2, #readfoot_002, .readads,.head-d {display:none;}');};
 Lif(__amscript_cd("qiushibaike.")){__amscript_wc('.shopwindow,.gameblock, .sitelink,#topBanner {display:none;}');};
 Lif(__amscript_cd("bbs.lephone.cc")){__amscript_wc('.mbn.cl {display:none;}');};
 Lif(__amscript_cd("taoguba.")){__amscript_wc('#head_img_2 {display:none;}');};
@@ -4406,7 +4416,7 @@ Lif(__amscript_cd("tom.com")){__amscript_wc('.OprRightAd, #con_one_1, .Wel_Box_R
 Lif(__amscript_cd(".0898.net")||__amscript_cd("hi.people.")){__amscript_wc('img[width="1000"], .tonglan, table[width="290"],img[width="690"][height="80"] {display:none;}');};
 Lif(__amscript_cd(".ipc.me")){__amscript_wc('.d250,.d300,#crumb_r {display:none;}');};
 Lif(__amscript_cd("disp.cc")){__amscript_wc('#ads_page_r,#ads_page_b {display:none;}');};
-Lif(__amscript_cd("cngold.org")){__amscript_wc('.advs, .list_banner,.soft_goldtd {display:none;}');};
+Lif(__amscript_cd("cngold.org")){__amscript_wc('.in_content_left_advs,.advs, .list_banner,.soft_goldtd {display:none;}');};
 Lif(__amscript_cd("coolapk.com")){__amscript_wc('.ga200 {display:none;}');};
 Lif(__amscript_cd("52wubi.")||__amscript_cd("zibool.")){__amscript_wc('.top960 {display:none;}');};
 Lif(__amscript_cd(".kankanews.com")){__amscript_wc('iframe[src*="/main/s"], .bann_ind,#J-zsb {display:none !important;}');};
@@ -4608,12 +4618,13 @@ Lif(__amscript_cd(".163.com")){__amscript_wc('.kaola-ad,.top-gg-area,.finance_he
 Lif(__amscript_cd("blog.163.")){__amscript_wc('#r_mlofteriframe,#r_mlofteriframe2,#r_mkaolaadv,.m-fixedPCAd,#loftertextlinkad,.postadlayer {display:none !important;}');};
 Lif(__amscript_cd("mail.163.com")||__amscript_cd("mail.126.com")){__amscript_wc('div[id$="_BannerDiv"],div[id$="_FooterDiv"],div[id$="_dvBlockInfo"],div[id$="_AdDiv"],.uR, #dvWelcomeRightUp, .appsJ, [id*="_adDiv"], [id*="dvReadAd"], #dvWelcomeAd2,#dvReadFlashAd {display:none;}');};
 Lif(__amscript_cd("reg.163.com")){__amscript_wc('#showPic {display:none;}');};
-Lif(__amscript_cd("image.baidu.")){__amscript_wc('.fcimgpage,.fcImgli,#adsearch,#relecom54,.recom,.right-banner-area,#plz-head-banner,.recommend, .mod-promo, #only-lady-sec, #ecomContainer, #relEcom {display:none !important;}');};
+Lif(__amscript_cd("image.baidu.")){__amscript_wc('#cmsimage,.fcimgpage,.fcImgli,#adsearch,#relecom54,.recom,.right-banner-area,#plz-head-banner,.recommend, .mod-promo, #only-lady-sec, #ecomContainer, #relEcom {display:none !important;}');};
 Lif(__amscript_cd("www.baidu.")||__amscript_cd("www1.baidu.")){__amscript_wc('.s-tutorial-tip,.sftip_red, #ec-siva-container-657, #lm, div[tpl="softdown"], .tools .shouji,.ec_bdtg,#ec_im_containe,.ec_pp_f + br,.ec_pp_f {display:none;}');};
 Lif(__amscript_cd("1111.baidu.")||__amscript_cd("xingqu.baidu.")||__amscript_cd("jump.bdimg.")||__amscript_cd("tieba.baidu.")||__amscript_cd("tieba.com")){__amscript_wc('.game_banner_common_wapper,.per_list.j_per_list.per_list_frs,.thread_dir_ad,.thread_local_58,.spreadad,#baiduweishiDown,.game_tab,.game_content,.score_ecr_wrapper, #replyBusinessImg, #loan_ad_mod_a,#union_mod, .lot_wrap, .hgame_mod_theme1, .hgame_mod_theme2, #frs-list-game, .images_game_container, #cprotbad, [id*="lottery"], #ueg_policy_open img, #search_button.search_button,.l_banner,#j_worldcup_info_banner,.BAIDU_CLB_AD,.j_banner_post, .game_list_and_rank, #game_frs_head, #game_rank, .game_spread_thread, #guide_fc, #j_ten_years, #search_baidu_promote, .tb_poster_info.poster_success,.lzl_panel_wrapper p,.tb_poster_placeholder,#pop_frame,.wapapp_adv, [id^="spreadad_"],#pc2client {display:none !important;}');__amscript_addonload("PageData.user.is_login=true;");};
-Lif(__amscript_cd("1111.baidu.")||__amscript_cd("xingqu.baidu.")||__amscript_cd("jump.bdimg.")||__amscript_cd("tieba.baidu.")||__amscript_cd("tieba.com")){__amscript_wc('#listPostCnt:nth-last-child(2),.bonus_forum_aside,#attention-game-wraper_dialog,#duoku_servers_list,#game_live_list,.bonus_forum_aside,.u9_aside,#pop_frame,#encourage_entry,#j_star_bus_before,.advertise_right_index,.j_df_card,.kn_nine_wrap,#game_cover_head_wrapper,.app_forum_top_nav,li[data-daid],div[data-daid],.j_couplet,.order_repost_wrap,.frs_act_repost_wrapper_outter,.wanle_tab_tip,#global_notice_wrap,.firework_sender_wrap,#platform_left_float,.live_show_aside,.qipai_thread,.u9_head,.dasense,.game_banner,#game_forum {display:none !important;}');};
+Lif(__amscript_cd("1111.baidu.")||__amscript_cd("xingqu.baidu.")||__amscript_cd("jump.bdimg.")||__amscript_cd("tieba.baidu.")||__amscript_cd("tieba.com")){__amscript_wc('.content_top,.play_list_panel,#listPostCnt:nth-last-child(2),.bonus_forum_aside,#attention-game-wraper_dialog,#duoku_servers_list,#game_live_list,.bonus_forum_aside,.u9_aside,#pop_frame,#encourage_entry,#j_star_bus_before,.advertise_right_index,.j_df_card,.kn_nine_wrap,#game_cover_head_wrapper,.app_forum_top_nav,li[data-daid],div[data-daid],.j_couplet,.order_repost_wrap,.frs_act_repost_wrapper_outter,.wanle_tab_tip,#global_notice_wrap,.firework_sender_wrap,#platform_left_float,.live_show_aside,.qipai_thread,.u9_head,.dasense,.game_banner,#game_forum {display:none !important;}');};
 Lif(__amscript_cd("zhidao.baidu.")){__amscript_wc('.cms-slide-lazy+div+div, #cms-company, #cms-scroll {display:none;} .adTopImg,.wgt-bottom-ask {display:none !important;}');};
-Lif(__amscript_cd("ifeng.com")){ads=[];AdRotator=function(){};__amscript_wc('.fhsd,.topAdBox,.v-adbox,.ad_01,.adv01,.ad1000_2,#hslide_sPic_360,#hslide_sPic_baidu,.ad_btn,#veidoshowAd,div[class="adbox02"],.pic280,.Avt01,.Avt02,.ColBLAvt,.ColBRAvt,.ColDLAvt,.ColDRAvt,.ColELAvt,.ColFLAvt,.ColGLAvt,.FNewLAvt,.FNewRAvt,.FNewRAvtLisBox,.FNewRAvtLisBox02,.ad1000_box,.ad1000-2,.right .keyword,.pic950,#video_p,.ad_09,.ad_04,#box_img,#picAdposition,.pic300,div[id^="padhide_"],.adR330,.adL660,.ad200-4,.ad728_tit,.list022, .play_center, .picNews, .adcontent, .gg298, .busiBox, .c-ad, .trade, .adbest, .ad, .adbox03, .adL1000, .ad1000x90, .adR01, #v_code, .ad665, .fengjc02, .conRgg, .pic600, .riodel, .tit_ad01, .adbox .bord01, [class^="adlist"], [class^="adList"],[id$="CoupletId"],[id^="flash_outer_"],.label_3,#StreamMediaWrap,.pic1000 {display:none;} #questionDialogBox, #optimusPrimeContentId, .ad950, .topAd, .tit_ad,#adbest,#ifengAehovering_small,[id^="couplet3_"] {display:none !important;}');};
+Lif(__amscript_cd("ifeng.com")){ads=[];AdRotator=function(){};__amscript_wc('.fhsd,.topAdBox,.v-adbox,.ad_01,.ad1000_2,#hslide_sPic_360,#hslide_sPic_baidu,.ad_btn,#veidoshowAd,div[class="adbox02"],.pic280,.Avt01,.Avt02,.ColBLAvt,.ColBRAvt,.ColDLAvt,.ColDRAvt,.ColELAvt,.ColFLAvt,.ColGLAvt,.FNewLAvt,.FNewRAvt,.FNewRAvtLisBox,.FNewRAvtLisBox02,.ad1000_box,.ad1000-2,.right .keyword,.pic950,#video_p,.ad_09,.ad_04,#box_img,#picAdposition,.pic300,div[id^="padhide_"],.adR330,.adL660,.ad200-4,.ad728_tit,.list022, .play_center, .picNews, .adcontent, .gg298, .busiBox, .c-ad, .trade, .adbest, .ad, .adbox03, .adL1000, .ad1000x90, .adR01, #v_code, .ad665, .fengjc02, .conRgg, .pic600, .riodel, .tit_ad01, .adbox .bord01, [class^="adlist"], [class^="adList"],[id$="CoupletId"],[id^="flash_outer_"],.label_3,#StreamMediaWrap,.pic1000 {display:none;} #questionDialogBox, #optimusPrimeContentId, .ad950, .topAd, .tit_ad,#adbest,#ifengAehovering_small,[id^="couplet3_"] {display:none !important;}');};
+Lif(__amscript_cd("ifeng.com")){__amscript_wc('div[class^="adv0"],div[class^="adv1"] {display:none !important;}');};
 Lif(__amscript_cd("finance.ifeng.")){__amscript_wc('.lccs,.rec {display:none;}');};
 Lif(location.href.indexOf("flat.vsa.com.cn/html/00001.")!=-1){window.open('','_parent','');window.opener='x';window.close();};
 Lif(__amscript_cd(".baidu.")){__amscript_wc('#ader,#women-picwall,#mabox,#j-ad-first,#j-ad-side,.advertise,.news_ad,.top-banner-ad-wrap,.rightAd-skin,.sam_iebrowser_banner,div[tpl^="ecr_pc_game_"],.fsblock,#coupletBanner,div[id$="_canvas"],#content_left>table,#content_left>div:not([id]),.l-header-ad,#gamePromo,#search-union-ad,.text-advertise, .tran-download-ad, #ecom_ad_mod,#share_ad_info_panl,table[tpl="newsoftdown"],#bdfs0,#bdfs1,#bdfs2,#bdfs3,#bdfs4,#bdfs5,[videoadv],#gamepromo,#qrcode-wrapper,#search_bottomad,#toptip,.pause-ad,#s_shoping_guide,.ad-material-wrapper,#left-promotion,.ecom,[class*="wgt-ads"],#ec_im_container,.ec_im_container {display:none !important;} .skin-clear .top-banner {background:none !important;} .mb-layout-bd.column4 {width:auto;}');};
@@ -5063,7 +5074,6 @@ Lif(__amscript_cd("shanhe.")){__amscript_wc('[class^="ads"] {display:none;}');};
 Lif(__amscript_cd("114la.")){__amscript_wc('#brownTop,#imgArr {display:none !important;} .box-hot,#sw,.col-row01 dt {display:none;}');};
 Lif(__amscript_cd("pps.")){__amscript_wc('#download_soft {display:none;}');};
 Lif(__amscript_cd("guanhuaju.")){__amscript_wc('#page_gg_1 {display:none;}');};
-Lif(__amscript_cd("cngold.")){__amscript_wc('.advs {display:none;}');};
 Lif(__amscript_cd("ali213.")){__amscript_wc('#tv,div[id^="ali-ad-js-"],[class^="GG_"] {display:none;}');};
 Lif(__amscript_cd("78dm.")){__amscript_wc('.adv,.adv_logo {display:none;}');};
 Lif(__amscript_cd("19lou.")){__amscript_wc('.J_pm,.editor-ad,a[ttname^="ad_"],[class^="ad-"] {display:none;}');};
@@ -5199,7 +5209,7 @@ Lif(__amscript_cd("oxgood.")){__amscript_wc('.textwidget center {display:none;}'
 Lif(__amscript_cd("mengmao.org")||__amscript_cd("mao-123.com")){__amscript_wc('#ad3,#cat3,a[href*="taobao.com"] {display:none;}');};
 Lif(__amscript_cd("zdfans.")){__amscript_wc('.db_post,.poptip {display:none;}');};
 Lif(__amscript_cd("3dezu.")){__amscript_wc('#fwin_popad_7ree,#diynavtop {display:none;}');};
-Lif(__amscript_cd("gpshk.")){__amscript_wc('#diy4,img[width="775"],#chs_bannerArea {display:none;}');};
+Lif(__amscript_cd("gpshk.")){__amscript_wc('#diy4,img[width="770"],#chs_bannerArea {display:none;}');};
 Lif(__amscript_cd("junqing123.")){__amscript_wc('.axing_ad_300_120,.axing_add_ad,.ad_960_85 {display:none;}');};
 Lif(__amscript_cd("ceil.me")){__amscript_wc('#adindex {display:none;}');};
 Lif(__amscript_cd("portablesoft.")){__amscript_wc('.downcenter,.bad {display:none;}');};
@@ -5809,6 +5819,11 @@ Lif(__amscript_cd("kindlefere.")){__amscript_wc('#content-show {display:none;}')
 Lif(__amscript_cd("midifan.")){__amscript_wc('.mid-aaa,.top-aaa {display:none;}');};
 Lif(__amscript_cd(".wgun.")){__amscript_wc('.gamePop {display:none !important;}');};
 Lif(__amscript_cd("xiaodaoyl.")||__amscript_cd("souxue8.")){__amscript_wc('img[src*=".tietuku."],.themeauthor > table[width="100%"]:first-child {display:none;}');};
+Lif(__amscript_cd("cool18.")){__amscript_wc('#d_right_ad {display:none;}');};
+Lif(__amscript_cd("codeforge.")){__amscript_wc('.webnotice-right {display:none;}');};
+Lif(__amscript_cd("ddvip.")){__amscript_wc('.ad_1000_90 {display:none;}');};
+Lif(__amscript_cd("kuai8.")){__amscript_wc('.Ad1 {display:none;}');};
+Lif(__amscript_cd("moneyweekly.")){__amscript_wc('div[id*="_ScupioHomeAD"] {display:none;}');};
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
