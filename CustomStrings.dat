@@ -1,4 +1,4 @@
-Xlist version 150705
+Xlist version 150706
 Gwpa.b.qq.com/cgi/wpa.php?
 G.neuralstemcell.com.cn/img/js.
 G.5etv.com
@@ -5857,6 +5857,7 @@ R|&adurl=http://www.iqiyi.com/common/flashplayer/20150*.swf&flashp2pcoreurl=http
 R|\x5f\x31\x30\x30\x31\x30\x30\x26"|\x5F\x31\x30\x30\x31\x34\x31\x26"
 R|qc_100001_100142|qc_100001_100141
 R|          = "qc_10*";|="qc_100001_100141";
+R|=qc_100001_100*&adurl=h*"|=qc_100001_100141&"
 R|location: http://www.iqiyi.com/player/20140408120101/player.swf|Location: http://t.cn/8sa1HXk
 Xa=qc_100001_100141
 R|=&cid=&preloader=&gpu=&|=&cid=qc_100001_100141&
