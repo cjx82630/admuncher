@@ -1,4 +1,10 @@
-Xlist version 150706
+Xlist version 150706a
+G.ruxianke.com
+Bifonce.com/813.
+Bzdfans.com/wp-content/upgrade/kiees.
+Bhttpcn.com/images/banner
+Bhttpcn.com/include/ad1/
+B.sinaimg.cn/large/ec76730dgw1e
 Gwpa.b.qq.com/cgi/wpa.php?
 G.neuralstemcell.com.cn/img/js.
 G.5etv.com
@@ -4681,6 +4687,7 @@ Lif(__amscript_cd("l7po.")){__amscript_wc('#code_box {display:none;} #down_box {
 Lif(__amscript_cd("lepan.")||__amscript_cd("sx566.")||__amscript_cd("vvpan.")){__amscript_wc('.ad_area,.pingbi,.ad,#code_box {display:none !important;} #down_box {display:block !important;}');};
 Lif(__amscript_cd("fmdisk.com")||__amscript_cd("fmpan.com")||__amscript_cd("21394.com")){__amscript_wc('#dl_tips {display:none !important;} div#googleadsense,#dl_addr,#down_box {display:block !important;}');};
 Lif(__amscript_cd(".77pan.cc")||__amscript_cd(".10pan.cc")||__amscript_cd(".2kuai.com")||__amscript_cd(".72bbb.com")||__amscript_cd("dxrr.com")||__amscript_cd("yiyipan.")){__amscript_wc('#dl_tips,.ad,.dcode,.incode,#down_box2 {display:none !important;} #dl_addr,#down_box {display:block !important;}');};
+Lif(__amscript_cd(".ifonce.com")){__amscript_wc('.ad_area,#dl_tips {display:none !important;} #dl_addr,#down_box {display:block !important;}');};
 Lif(__amscript_cd("87pan.")){__amscript_wc('#down_link_code {display:none;} #down_link {display:block !important;}');};
 Lif(__amscript_cd("yimuhe.")){__amscript_wc('#loading {display:none;} #yzm {display:block !important;}');};
 Lif(__amscript_cd("xlmgr.info")){if(location.pathname.indexOf("verification_code.")!=-1){__amscript_addonload("document.forms[0].submit();");}};
@@ -5240,7 +5247,7 @@ Lif(__amscript_cd("geiliwx.")){__amscript_wc('.yueduads {display:none;}');};
 Lif(__amscript_cd("wn789.")){__amscript_wc('.d_textbanner,.ivad,#lograd,.logtad,.hdadbox,.iradbox {display:none;}');};
 Lif(__amscript_cd("zyy123.")){__amscript_wc('#fdadv,.tg250x250-1,.tg250x250-2 {display:none;}');};
 Lif(__amscript_cd("wenku8.")){__amscript_wc('#tonglan {display:none;}');};
-Lif(__amscript_cd("hk3318.")){__amscript_wc('.ad990x130,.ad990,.ad990x90 {display:none;}');};
+Lif(__amscript_cd("dm3318.")){__amscript_wc('.ad990x90 {display:none;}');};
 Lif(__amscript_cd("creaders.")){__amscript_wc('.leftContent,#guanggao2,a[title^="www.136888.com/new/ad."],div[class^="jc"],.ggbox1,.ggbox {display:none;}');};
 Lif(__amscript_cd("1ting.")){__amscript_wc('#tingx_5 {display:none;}');};
 Lif(__amscript_cd("phpfans.")){__amscript_wc('.banout {display:none;}');};
@@ -5350,7 +5357,7 @@ Lif(__amscript_cd("2muslim.")){__amscript_wc('#portal_block_661,#portal_block_65
 Lif(__amscript_cd(".58.com")){__amscript_wc('.listpage_detail,div[id$="_gdbg"],div[id^="ad_"],.coupad_l {display:none !important;}');};
 Lif(__amscript_cd("jgzj.")){__amscript_wc('.adcss {display:none;}');};
 Lif(__amscript_cd("tianqi.")){__amscript_wc('.news_ggimg {display:none;}');};
-Lif(__amscript_cd("httpcn.")){__amscript_wc('#zhen_pic_one {display:none;}');};
+Lif(__amscript_cd("httpcn.")){__amscript_wc('#ie6fixedTL,#zhen_pic_one {display:none;}');};
 Lif(__amscript_cd("webcars.")){__amscript_wc('.banner_mb,.i_banner {display:none !important;}');};
 Lif(__amscript_cd(".wiz.")){__amscript_wc('li#wl-ngv-entps-srv {display:none !important;}');};
 Lif(__amscript_cd("xiazaizhijia.")){__amscript_wc('div[id^="PAGE_AD_"] {display:none;}');};
@@ -5848,6 +5855,7 @@ Lif(__amscript_cd("cheers.com.")){__amscript_wc('.listTxt.news {display:none;}')
 Lif(__amscript_cd(".gucheng.")){__amscript_wc('.news_ad_fenyelianjie,.news_ad_fenyeyuansheng,.news_ad_listyuansheng,.news_ad_wenzhong {display:none;}');};
 Lif(__amscript_cd(".qb5.com")){__amscript_wc('.con_top {display:none;}');};
 Lif(__amscript_cd(".duba.net")){__amscript_wc('#login_alert {display:none;}');};
+Lif(__amscript_cd(".a88.us")||__amscript_cd("208.94.244.98")||__amscript_cd(".aisex.")||__amscript_cd("ac168.info")){__amscript_wc('img[src*="tinypic."] {display:none;}');};
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
