@@ -1,4 +1,4 @@
-Xlist version 150706a
+Xlist version 150707
 G.ruxianke.com
 Bifonce.com/813.
 Bzdfans.com/wp-content/upgrade/kiees.
@@ -5882,6 +5882,7 @@ R|,"preroll":[{"id":|,"xreroll":[{"id":
 R|class="pageleftfixedad"|style="display:none;"
 R| .vpic_wrap img{|{display:none}{
 R|_.module.use("adsense/|_.Module.use('xdsense/
+R|swfobject(vrs_player,|SWFObject(vrs_playor,
 R|.playerurl=vrs_player|.playerUrl=vrs_playor
 R|_qy_appendscript=|;return;
 R|s=new swfobject(vrs_player|s=new SWFObject(vrs_playor
