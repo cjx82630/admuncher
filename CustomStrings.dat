@@ -1,4 +1,4 @@
-Xlist version 150707
+Xlist version 150708
 G.ruxianke.com
 Bifonce.com/813.
 Bzdfans.com/wp-content/upgrade/kiees.
@@ -57,8 +57,7 @@ Gp.5mnh.com
 G:8080/ad/
 Oairenti.co/*/
 B.onedala.tv/uploads/banner/
-Ocb.baidu.com/ecom?di=947434,
-Ocb.baidu.com/ecom?di=947379,
+Ocb.baidu.com/ecom?di=*.colafile.
 S.colafile.com/smartdown/
 S.colafile.com/file/
 Ocb.baidu.com/ecom?di=947448,
@@ -4717,7 +4716,7 @@ Lif(__amscript_cd(".chiphell.com")){__amscript_wc('#diy2 {display:none;}');};
 Lif(__amscript_cd(".cjdby.")){__amscript_wc('.page_right_ad,.info_ad1,.info_ad2 {display:none;}');};
 Lif(__amscript_cd(".cngba.")){__amscript_wc('.ad.jz {display:none;}');};
 Lif(__amscript_cd("adreep.cn")){__amscript_wc('.guanggao,.poster_bg,.poster {display:none;}');};
-Lif(__amscript_cd(".hao123.com")){__amscript_wc('#rightAds_pass,.soft-ad-banner,#guesslikesite,#shortcut-tuiguang,#ecom,.leftbanner,#shortcut-box .tip,#btn-dl-bro,#box-toplist4,.leftad-160,#__wgt_0_2,.g-ib.hao123-banner,.span-rows.box-adbar a,#box-inner-adbar a {display:none;} .hao123-search > .notice-fixed,.tvtip,.slidetoolbarContainr,.newskin-tip,#shortcut-tuiguang,#layout-guess,.widget-topbanner,.browsertip,#__wgt_0_1,.logogame-tip,#zhongqiu-enter,.widget-topbanner {display:none !important;}');};
+Lif(__amscript_cd(".hao123.com")){__amscript_wc('#hao123-gw11,#guesslikesite-block,#rightAds_pass,.soft-ad-banner,#guesslikesite,#shortcut-tuiguang,#ecom,.leftbanner,#shortcut-box .tip,#btn-dl-bro,#box-toplist4,.leftad-160,#__wgt_0_2,.g-ib.hao123-banner,.span-rows.box-adbar a,#box-inner-adbar a {display:none;} .hao123-search > .notice-fixed,.tvtip,.slidetoolbarContainr,.newskin-tip,#shortcut-tuiguang,#layout-guess,.widget-topbanner,.browsertip,#__wgt_0_1,.logogame-tip,#zhongqiu-enter,.widget-topbanner {display:none !important;}');};
 Lif(__amscript_cd(".jrj.com.cn")){__amscript_wc('.ipo-ad,.bd.pa10.bgn,.jrj-ad,[class^="ad"] {display:none;}');};
 Lif(__amscript_cd(".ranwen.cc")){__amscript_wc('#contont #title_cont {height:110px;}');};
 Lif(__amscript_cd(".sz.js.cn")){__amscript_wc('[id^="lovexin"] {display:none;}');};
