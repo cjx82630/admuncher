@@ -1,4 +1,4 @@
-Xlist version 150712
+Xlist version 150716
 G.img80.net
 G.ymcqb.com
 O70.86.24.120:8060/*/
@@ -5894,7 +5894,7 @@ R|qc_100001_100142|qc_100001_100141
 R|          = "qc_10*";|="qc_100001_100141";
 R|=qc_100001_100*&adurl=h*"|=qc_100001_100141&"
 R|location: http://www.iqiyi.com/player/20140408120101/player.swf|Location: http://t.cn/8sa1HXk
-Oq.player.create("flash");
+R|<script type="text/javascript">q.player.create("flash");</script>|<script>if(!Q.$('#flash'))Q.player.create("flash")</script>
 Xa=qc_100001_100141
 R|=&cid=&preloader=&gpu=&|=&cid=qc_100001_100141&
 R|cid=qc_100001_100*&**<script type="text/javascript">|cid=qc_100001_100141&*<script>
