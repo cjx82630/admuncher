@@ -1,4 +1,4 @@
-Xlist version 150721
+Xlist version 150727
 Gkoolearn.com/www/subject/script/subject_form.
 Gkoolearn.com/v2/js/*ad.
 G.hxqu.com/
@@ -4710,7 +4710,7 @@ Lif(__amscript_cd("ifeng.com")){ads=[];AdRotator=function(){};__amscript_wc('.fh
 Lif(__amscript_cd("ifeng.com")){__amscript_wc('div[class^="adv0"],div[class^="adv1"] {display:none !important;}');};
 Lif(__amscript_cd("finance.ifeng.")){__amscript_wc('.lccs,.rec {display:none;}');};
 Lif(location.href.indexOf("flat.vsa.com.cn/html/00001.")!=-1){window.open('','_parent','');window.opener='x';window.close();};
-Lif(__amscript_cd(".baidu.")){__amscript_wc('.intro-adv,#ader,#women-picwall,#mabox,#j-ad-first,#j-ad-side,.advertise,.news_ad,.top-banner-ad-wrap,.rightAd-skin,.sam_iebrowser_banner,div[tpl^="ecr_pc_game_"],.fsblock,#coupletBanner,div[id$="_canvas"],#content_left>table,#content_left>div:not([id]),.l-header-ad,#gamePromo,#search-union-ad,.text-advertise, .tran-download-ad, #ecom_ad_mod,#share_ad_info_panl,table[tpl="newsoftdown"],#bdfs0,#bdfs1,#bdfs2,#bdfs3,#bdfs4,#bdfs5,[videoadv],#gamepromo,#qrcode-wrapper,#search_bottomad,#toptip,.pause-ad,#s_shoping_guide,.ad-material-wrapper,#left-promotion,.ecom,[class*="wgt-ads"],#ec_im_container,.ec_im_container {display:none !important;} .skin-clear .top-banner {background:none !important;} .mb-layout-bd.column4 {width:auto;}');};
+Lif(__amscript_cd(".baidu.")){__amscript_wc('.intro-adv,#ader,#women-picwall,#mabox,#j-ad-first,#j-ad-side,.advertise,.news_ad,.top-banner-ad-wrap,.rightAd-skin,.sam_iebrowser_banner,div[tpl^="ecr_pc_game_"],.fsblock,#coupletBanner,div[id$="_canvas"],.l-header-ad,#gamePromo,#search-union-ad,.text-advertise, .tran-download-ad, #ecom_ad_mod,#share_ad_info_panl,table[tpl="newsoftdown"],#bdfs0,#bdfs1,#bdfs2,#bdfs3,#bdfs4,#bdfs5,[videoadv],#gamepromo,#qrcode-wrapper,#search_bottomad,#toptip,.pause-ad,#s_shoping_guide,.ad-material-wrapper,#left-promotion,.ecom,[class*="wgt-ads"],#ec_im_container,.ec_im_container {display:none !important;} .skin-clear .top-banner {background:none !important;} .mb-layout-bd.column4 {width:auto;}');};
 Lif(__amscript_cd("wenku.baidu.com")){__amscript_wc('.redpacket-dialog {display:none !important;}');};
 Lif(__amscript_cd("cd.qq.")){__amscript_wc('.wrap.mt1,.tl_ad {display:none;}');};
 Lif(__amscript_cd("find.qq.")){__amscript_wc('#seller-list {display:none !important;}');};
