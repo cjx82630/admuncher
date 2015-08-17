@@ -1,4 +1,11 @@
-Xlist version 150816
+Xlist version 150817
+X.gomein.net.cn/??
+Bi.syasn.com/a
+Bizzs.net/wp-content/mm/
+G.knewbi.com/app/banner/
+B.glb.clouddn.com/uploads/new/banner/
+Gloudpingwei.net/wp-content/plugins/adblock-notify-by-bweb/
+X.linkbucks.com/tmpl/mint/img/
 Afulibba.net/ad
 G/lemmaconfig/navbarad.
 G/lemmaconfig/baikedynamic.
@@ -427,8 +434,6 @@ Evar preadv=[];
 Bnewsmth.net/nforum/files/adv/
 Bnewsmth.net/nforum/11ad
 B/adman.
-Bleiphone.com/resweb/images/article/ad.
-Bleiphone.qiniudn.com/uploads/new/banner/
 G/weisaysimple/js/single-bottom.
 B/weisaysimple/js/content40width.
 Bqiyipic.com/common/*tonglan
@@ -1203,7 +1208,6 @@ Bmxwz.com/swf/yidong2015.
 Bmoonbbs.com/static/image/banner/fashionmoon.
 B/dealmoon_app.
 Bdealmoon.com/images/n/creditcard-160.
-Blanyes.org/content/uploadfile/10086china.
 Gjbyf.net/js/9
 Gjbyf.net/js/6
 Bgg163.net/gpimages/ad33.
@@ -1770,7 +1774,6 @@ Ogg.woniu.com
 S.okwei.com
 B.adsame.libaclub.
 O/adsame.liba
-Bld0766.com/2014/
 Bifeng.com/iframe/toquickbet
 G10000sb.com/4gbct.
 G/ysm/ewdna/
@@ -3587,7 +3590,6 @@ Bpic.0597kk.com
 G/2345float.js
 G.shiwt.com
 Gdouban*/js/ad.
-Ilanyes.org/content/templates/default/images/no
 Githome.com/js/recommend
 Brising.cn/images/nsdgg
 Ocb.baidu.*.pinshan.
@@ -4935,11 +4937,11 @@ Lif(__amscript_cd("5iyq.")){__amscript_wc('[class^="index_ad"],.ad {display:none
 Lif(__amscript_cd("shangdu.")){__amscript_wc('.fmt_main,#newsBanner,div[id^="ads_d_"],#news_daohang + div:last-child,#FlashID,#banner,#myads2,#myads1,.pub_ad,.htz_ad,.ad,.ad_txt {display:none;}');};
 Lif(__amscript_cd("wpcnn.")){__amscript_wc('#it_an,#diy1 {display:none;}');};
 Lif(__amscript_cd("djyule.")){__amscript_wc('.homeDown {display:none;}');};
-Lif(__amscript_cd("leiphone.")){__amscript_wc('.lph-top-ad,.knewbi-moudle,.advertOne,.idx-adver1 {display:none;}');};
+Lif(__amscript_cd("leiphone.")){__amscript_wc('.zhiqu-ads {display:none;}');};
 Lif(__amscript_cd("win7sky.")||__amscript_cd("xue5.")||__amscript_cd("jqgcw.")){__amscript_wc('#ad {display:none;}');};
 Lif(__amscript_cd("52hardware.")){__amscript_wc('#top2,object[width="880"],img[width="880"],.dvs02 {display:none;}');};
 Lif(__amscript_cd("mkzhan.")){__amscript_wc('#main_top,.main_top_gg {display:none;}');};
-Lif(__amscript_cd("miercn.")){__amscript_wc('.content7,a[href^="http://www.yaosai.com/shop/"],[class^="gg"] {display:none !important;}');};
+Lif(__amscript_cd("miercn.")){__amscript_wc('#foot_return_foot,.content7,a[href^="http://www.yaosai.com/shop/"],[class^="gg"] {display:none !important;}');};
 Lif(__amscript_cd("fqlook.")||__amscript_cd("meineihan.")){__amscript_wc('.hengfu {display:none;}');};
 Lif(__amscript_cd("leiting001.")||__amscript_cd("leitingcn.")){__amscript_wc('#ad {display:none !important;}');};
 Lif(__amscript_cd("qvodsou.")||__amscript_cd("gvodb.")){__amscript_wc('.remeber,[id$="-union"] {display:none !important;}');};
@@ -6042,6 +6044,9 @@ Lif(__amscript_cd("daybuy.")){__amscript_wc('.bady_ad {display:none;}');};
 Lif(__amscript_cd("kaopu001.")){__amscript_wc('.coupleBannerAdv {display:none;}');};
 Lif(__amscript_cd("fullyu.")){__amscript_wc('.content-ads,.content-top-ads,.rightSide-top-ads {display:none;}');};
 Lif(__amscript_cd("lywww.")){__amscript_wc('.lianmengclass {display:none;}');};
+Lif(__amscript_cd("aijava.")){__amscript_wc('#text-15,a[href*=".taobao.com"] {display:none;}');};
+Lif(__amscript_cd("lanyes.")){__amscript_wc('.sidetg {display:none;}');};
+Lif(__amscript_cd("izzs.")){__amscript_wc('#listad {display:none;}');};
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
