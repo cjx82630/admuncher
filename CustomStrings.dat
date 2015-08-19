@@ -1,4 +1,10 @@
-Xlist version 150817
+Xlist version 150819
+G/source/plugin/yw_alertlogin/
+Geduuu.com/gaokao/2015/bannerdaili.
+Gdy2018.com/dianyq/
+Ba2.b310.com
+G.jiawen88.com
+G.si9377.com
 X.gomein.net.cn/??
 Bi.syasn.com/a
 Bizzs.net/wp-content/mm/
@@ -100,7 +106,7 @@ B.mw6.me/images/*.gif
 Gby.7avz.com
 Btwunbbs.com/images/
 Gsss.sege.xxx
-Gyundasys.*/ad.html
+Byundasys.com:1602/wsd/ykjcx/
 E.getelementsbyclassname("afs_ads"
 G123.sogou.com/nstatic/img/jiao.
 Grepian.com/a/
@@ -4947,7 +4953,7 @@ Lif(__amscript_cd("leiting001.")||__amscript_cd("leitingcn.")){__amscript_wc('#a
 Lif(__amscript_cd("qvodsou.")||__amscript_cd("gvodb.")){__amscript_wc('.remeber,[id$="-union"] {display:none !important;}');};
 Lif(__amscript_cd("wudilong.net")){__amscript_wc('[id*="ad_"] {display:none;}');};
 Lif(__amscript_cd("jianshen114.")){__amscript_wc('.tempflash,.row_2,.index_temp {display:none;} .divbAdv {display:none !important;}');};
-Lif(__amscript_cd("esdict.")||__amscript_cd("eudic.")||__amscript_cd("frdic.")||__amscript_cd("godic.")){__amscript_wc('.alert,#head-ad-barTop,#head-ad-barSub,#right-side-colume,#ads {display:none;}');};
+Lif(__amscript_cd("esdict.")||__amscript_cd("eudic.")||__amscript_cd("frdic.")||__amscript_cd("godic.")){__amscript_wc('#dict-body + style + div,.alert,#head-ad-barTop,#head-ad-barSub,#right-side-colume,#ads {display:none;}');};
 Lif(__amscript_cd("eeyy.com")){__amscript_trapevent("DOMContentLoaded","if(typeof(hidebg)=='function'){hidebg();};");__amscript_wc('.wz650,#xy_tips,#tjkf_box,#float_ad0,[class*="ads"] {display:none;}');};
 Lif(__amscript_cd("52tian.")||__amscript_cd(".3634.com")){document.cookie='hidead=1;domain=www.52tian.net;path=/;expires=';__amscript_trapevent("DOMContentLoaded","if(typeof(hideann)=='function'){hideann();};");__amscript_wc('.bdad {display:none;}');};
 Lif(__amscript_cd("86wan.")){__amscript_trapevent("DOMContentLoaded","if(typeof(hidebg)=='function'){hidebg();};");__amscript_wc('[class^="tonglan"] {display:none;}');};
@@ -6047,9 +6053,14 @@ Lif(__amscript_cd("lywww.")){__amscript_wc('.lianmengclass {display:none;}');};
 Lif(__amscript_cd("aijava.")){__amscript_wc('#text-15,a[href*=".taobao.com"] {display:none;}');};
 Lif(__amscript_cd("lanyes.")){__amscript_wc('.sidetg {display:none;}');};
 Lif(__amscript_cd("izzs.")){__amscript_wc('#listad {display:none;}');};
+Lif(__amscript_cd("smzdm.")){__amscript_wc('.g_g {display:none;}');};
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
+R| .vpic_wrap img{|{display:none}{
+R|_.module.use("common/widget/umoneypromotiondialog|('
+R|_.module.use("adsense-base/widget/tpl_|('
+R|_.module.use("padsense/widget/tpl_|('
 R|ct = wait_second;|ct = 1;
 R|isns9 ? nsaddata.|//
 R|= domain.jsurl + "v.php?id="|;return;
@@ -6074,9 +6085,6 @@ R|"ads":{"schedule":[{"|"":{"schedule":[{"
 R|,"pauseroll":[{"id":|,"zauseroll":[{"id":
 R|,"preroll":[{"id":|,"xreroll":[{"id":
 R|class="pageleftfixedad"|style="display:none;"
-R| .vpic_wrap img{|{display:none}{
-R|/tb/_/umoney_p|/xb/_/umoney_p
-R|loadad:function(|xoadAD:function(
 R|swfobject(vrs_player,|SWFObject(vrs_playor,
 R|.playerurl=vrs_player|.playerUrl=vrs_playor
 R|_qy_appendscript=|;return;
