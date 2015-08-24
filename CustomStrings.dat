@@ -1,4 +1,5 @@
-Xlist version 150824
+Xlist version 150824a
+Swww.guokr.com
 Bcctvpic.com/photoalbum/templet/common/*/game_
 Bimall.cntv.cn
 G.bbuni.com/
@@ -4547,7 +4548,7 @@ Pa[href*="vipshop.com/scripts/click."] img {display:none;}
 Pa[href^="http://www.fyvps.com/buy"] img,a[href*="t.hly.com/?tid="] img {display:none;}
 Pa[href="http://youxi.66174.com/"] img {display:none;}
 Pa[href*=".2345.com/?"] img,a[href*=".33ip.com"] img,a[href*=".enkj.com"] img {display:none;}
-P.kf_qycn_com_cckf_welcomebox,#tanx-con-1,.game-ad-item,#playFlashad,.wumii-bottom-popup,a[href^="http://rd.wan.360.cn/reg"] img,.guokr-layer-beforelogin {display:none !important;}
+P.kf_qycn_com_cckf_welcomebox,#tanx-con-1,.game-ad-item,#playFlashad,.wumii-bottom-popup,a[href^="http://rd.wan.360.cn/reg"] img {display:none !important;}
 P#\32 345float,#asto_box,.tipadds,#js_ads_banner_top,#js_ads_banner_top_slide,#top_ads0,#floatAd,#RightAd1,#snActive-wrap {display:none !important;}
 P#mito_footer_login,#bdztad,#SideVideoAD,.lianxi_gg,.guanggaowei_top,#hz6d_freeze_div,#kfivtwin,#kfpopupDiv,#miaov_float_layer {display:none !important;}
 P#doyoo_monitor,#doyoo_mon_mask,#ad_box1,#ad_box2,#ad_box_1,#sdad,#float_ad_div,#downmsg_emessage,#Tool_adv,[class^="tuzuanad"],[id^="_z_dl_d"] {display:none !important;}
@@ -5471,7 +5472,6 @@ Lif(__amscript_cd("xxs8.")){__amscript_wc('.content_left_adv {display:none;}');}
 Lif(__amscript_cd("duantian.")){__amscript_wc('.tentgua {display:none;}');};
 Lif(__amscript_cd("ysx8.")){__amscript_wc('#Wl_Float_Div {display:none;}');};
 Lif(__amscript_cd("chinaqking.")){__amscript_wc('#newsAD,#readerServiceDIV {display:none;}');};
-Lif(__amscript_cd("1guokr.")){__amscript_wc('.side-adv {display:none !important;}');};
 Lif(__amscript_cd("hkgalden.")){__amscript_wc('.ad,.adContainer {display:none;}');};
 Lif(__amscript_cd("webssearches.")){__amscript_wc('#iframe-ad {display:none;}');};
 Lif(__amscript_cd("eprice.")){__amscript_wc('.ad-970x90-g,.adverall {display:none;}');};
