@@ -1,4 +1,7 @@
-Xlist version 150830
+Xlist version 150830a
+D.2mm.tv/
+D.2mmei.com/
+Gm.syasn.com/s
 G.52kmk.com/
 B.121zou.com/*.html
 B/2015/08/360dxs.
@@ -6093,7 +6096,6 @@ Lif(__amscript_cd("qqjishu.")){__amscript_wc('img[src*="tietuku."] {display:none
 Lif(__amscript_cd("sspai.")){__amscript_wc('div[class*="widget-color-bns"] > .colors:first-child {display:none;}');};
 Lif(__amscript_cd("668vv.")||__amscript_cd(".k248.com")){__amscript_wc('#haoetv,#haoetv1 {display:none;} div.ad960 {display:block;}');};
 Lif(__amscript_cd("99re8.")){__amscript_wc('.block.spots,.main > a {display:none;}');};
-Lif(__amscript_cd(".2mm.tv")||__amscript_cd(".2mmei.com")){__amscript_wc('#il,#sb {height:250px !important;}');};
 Lif(__amscript_cd("9tour.")){__amscript_wc('a[href^="http://union.zhuna.cn/"],div[id^="Bar"] {display:none;}');};
 Lif(__amscript_cd("daybuy.")){__amscript_wc('.bady_ad {display:none;}');};
 Lif(__amscript_cd("kaopu001.")){__amscript_wc('.coupleBannerAdv {display:none;}');};
@@ -6124,6 +6126,8 @@ Lif(__amscript_cd("jikexueyuan.")){__amscript_wc('.pewm2,.pewm3 {display:none;}'
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
+R|k3>60&&dq&|k3>60&&0 &
+R|,0>=a&&(q2.|,0>=0&&(Q2.
 R|var eid = "fn|return;
 R| .vpic_wrap img{|{display:none}{
 R|_.module.use("encourage-payment/widget/umoneypromotiondialog|('
