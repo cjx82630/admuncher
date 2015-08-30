@@ -1,4 +1,15 @@
-Xlist version 150828
+Xlist version 150830
+G.52kmk.com/
+B.121zou.com/*.html
+B/2015/08/360dxs.
+Glive8bo.com/da.
+Gifengimg.com/iis/iis_
+Ghhmanhua.net/jsc/book_
+Ghhmanhua.net/jsc/stat.
+Bimgservice.dnvod.eu/images/*.gif
+A/?module=business&act=click&
+I.acgft.net/?p=*.sinaimg.
+B87994.com/images/rili.
 Bhaha.mx/images/banner/vipp.
 Gto8to.com/gb_js/zxbj_bottom_bar.
 G.stnts.com
@@ -3458,7 +3469,7 @@ Bjoyes.com/image/06.jpg
 Bruan8.com/wwwimg/android_down.
 Gruan8.com/wwwimg/head.
 B52hardware.com/images/baimg/
-Bmumayi.net/jiujiang26054.
+Bmumayi.net/jiujiang
 Bmumayi.net/9495.
 Bmumayi.net/76090.
 E.getelementbyid("adbody_hidden"
@@ -4557,7 +4568,7 @@ P#gg300,#cs_right_couplet,#cs_left_couplet,#ad_couplet,#adtop1,#Nav_Top_Ad,.bbs_
 P.it618_firstad_flex,.cari-ads,#ad-beifeng-729-90,.txtads,#videoPlayRight,.indexAd,#eMeng,#ad04,#ad_tool,.movie_ad {display:none;}
 P#ads_three,#newcoupleLeftAdv,#newcoupleRightAdv,.adleft100_330,#Left_ad,#Right_ad,#float_ad,#videoLeftAd,#videoRightAd,#float_ad_box,#adLeftFloat,#adRightFloat,#floatAd,#floatAD {display:none;}
 P.menutab_ad,.ad690,.content_ad_300,#gxnews_fullad,.book_AD,.ad770x70,#duomiAd,.ggbanner,.new_ad_img {display:none;}
-P#admhdiv_abc,.tvadtext,#tmall_ad,#ad_headerbanner2,.gg_ads_home_t,#cntvSearch_ad,.right_ad1 {display:none;}
+P.ad_couplebanner,#admhdiv_abc,.tvadtext,#tmall_ad,#ad_headerbanner2,.gg_ads_home_t,#cntvSearch_ad,.right_ad1 {display:none;}
 P.play_ad300_2,.ggtop,#wzad,#baidu_radio,#baiduAD,#fAdDiv,#woSoAdBox,.post-top-gg,.resource-detail-ad {display:none;}
 P.ad360_280,.ad950,.advertise960,#view-gg,.view-gg,.play_ad_box,.ad_486_60,.ad_980_60,.ad_960_85,.homead_960x80 {display:none;}
 P.ml_ad1,.ml_ad3,.ml_ad5,.con_ad,.navAd,.ad72060,#ptcmsad1,.home_ad,#ad_lazyload,#herder_gg,#youad1 {display:none;}
@@ -5990,7 +6001,6 @@ Lif(__amscript_cd("51dll.")){__amscript_wc('.btn a[href^="http"],#aa,#loadingbox
 Lif(__amscript_cd("btago.")){__amscript_wc('.hezuobox,.topTips,img[src*=".tietuku."] {display:none;}');};
 Lif(__amscript_cd("aimovie.")){__amscript_wc('#widget_aliyun_promo {display:none;}');};
 Lif(__amscript_cd("it165.")){__amscript_wc('.adv728a,.adv728b,.advyello,.ContentAdv {display:none;}');};
-Lif(__amscript_cd("jueaivip.")){__amscript_wc('.ad_couplebanner {display:none;}');};
 Lif(__amscript_cd("mopiaoyao.")||__amscript_cd("renwai.")){__amscript_wc('.ads_c,.context_t,#sidebar center > a > img,#gg {display:none !important;}');};
 Lif(__amscript_cd("shunwang.")){__amscript_wc('.ola_program,[id^="ad_"] {display:none !important;}');};
 Lif(__amscript_cd("tingvoa.")){__amscript_wc('#textadbox,.rightgood,#articletopimg {display:none;}');};
@@ -6109,9 +6119,12 @@ Lif(__amscript_cd("700kan.")){__amscript_wc('.top980 {display:none;}');};
 Lif(__amscript_cd("ghoffice.")){__amscript_wc('div[id^="ads_"],span[id^="ads_"],#main .textMes {display:none;}');};
 Lif(__amscript_cd("xinbiqi.")){__amscript_wc('.topAd,.ad960-90,.readerAd {display:none;}');};
 Lif(__amscript_cd("fwxgx.")){__amscript_wc('#jPpo_sc,.float_ad,.baibaoxiang {display:none !important;}');};
+Lif(__amscript_cd("cntour2.")){__amscript_wc('.topBanner,.txtPicAd {display:none;}');};
+Lif(__amscript_cd("jikexueyuan.")){__amscript_wc('.pewm2,.pewm3 {display:none;}');};
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
+R|var eid = "fn|return;
 R| .vpic_wrap img{|{display:none}{
 R|_.module.use("encourage-payment/widget/umoneypromotiondialog|('
 R|_.module.use("common/widget/umoneypromotiondialog|('
