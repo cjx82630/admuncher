@@ -1,4 +1,8 @@
-Xlist version 151008
+Xlist version 151011
+X.itc.cn/site/special/embed/interaction_
+X.itc.cn/site/play/v3/inc
+Q.itc.*&prod=ad&
+E_sohuhd.ad.
 Xsupport.amd.com/
 Gye120.com/zool.
 Gye120.com/swt.
@@ -6319,8 +6323,6 @@ R|"ads":{"schedule":[{"|"":{"schedule":[{"
 R|,"pauseroll":[{"id":|,"zauseroll":[{"id":
 R|,"preroll":[{"id":|,"xreroll":[{"id":
 R|class="pageleftfixedad"|style="display:none;"
-R|swfobject(vrs_player,|SWFObject(vrs_playor,
-R|.playerurl=vrs_player|.playerUrl=vrs_playor
 R|_qy_appendscript=|;return;
 R|s=new swfobject(vrs_player|s=new SWFObject(vrs_playor
 R|onclick="avdplay(|id="x" onclick="(
