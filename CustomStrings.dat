@@ -1,4 +1,4 @@
-Xlist version 151011
+Xlist version 151012
 X.itc.cn/site/special/embed/interaction_
 X.itc.cn/site/play/v3/inc
 Q.itc.*&prod=ad&
@@ -6304,7 +6304,7 @@ R|isns9 ? nsaddata.|//
 R|= domain.jsurl + "v.php?id="|;return;
 R|b.p00001=cookie.getcookie("p00001")|b.has_ad = false;b.P00001=""
 R|_page_conf.upload_id===o[n]|1
-R|&adurl=http://www.iqiyi.com/common/flashplayer/20150*.swf&flashp2pcoreurl=http://www.iqiyi.com|&adurl=http://www.iqiyi.com/player/20140609142316/Player.swf&flashP2PCoreUrl=
+R|&adurl=http://www.iqiyi.com/common/flashplayer/201*.swf&flashp2pcoreurl=http://www.iqiyi.com|&adurl=http://www.iqiyi.com/player/20140609142316/Player.swf&flashP2PCoreUrl=
 R|\x5f\x31\x30\x30\x31\x30\x30\x26"|\x5F\x31\x30\x30\x31\x34\x31\x26"
 R|qc_100001_100142|qc_100001_100141
 R|          = "qc_10*";|="qc_100001_100141";
@@ -6324,7 +6324,6 @@ R|,"pauseroll":[{"id":|,"zauseroll":[{"id":
 R|,"preroll":[{"id":|,"xreroll":[{"id":
 R|class="pageleftfixedad"|style="display:none;"
 R|_qy_appendscript=|;return;
-R|s=new swfobject(vrs_player|s=new SWFObject(vrs_playor
 R|onclick="avdplay(|id="x" onclick="(
 R|<adlist><|<xdList><
 R|</adlist><|</xdList><
@@ -8837,4 +8836,3 @@ P#ad_box,#ad_header,#ad_left,#ad_right {display:none !important;}
 P#bottom_ad,#right-ad,#right-ads,#sideAd,.adNone {display:none !important;}
 P.ad_body,.ad_flash,.ad_news,.adsbygoogle,.articleAd,.mod_ads {display:none !important;}
 Pdiv[id^="MarketGidComposite"],img[src$="/ad.gif"] {display:none;}
-Lwindow.vrs_playor="http://dxdragon.cwsurf.de/cleanplayer/player/sohu/sohu_live.swf";
