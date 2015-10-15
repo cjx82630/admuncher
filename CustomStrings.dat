@@ -1,4 +1,16 @@
-Xlist version 151012
+Xlist version 151015
+B141h.com/data/attachment/noblock/cf/
+Badm1.autoimg.*.swf
+Badm0.autoimg.*.swf
+A.manhuaren.com/appshow/?
+E$(".lanrenzhijia")
+Gj.6avz.com
+G.85tgw.com/
+G.kmadou.com/
+Gkongzhong.com/style/newindex/js/tad.
+Gol-img.com/channel/tuku/js/tukupopup.
+X.images-amazon.com/images/
+G.ifengimg.com/neiqian/
 X.itc.cn/site/special/embed/interaction_
 X.itc.cn/site/play/v3/inc
 Q.itc.*&prod=ad&
@@ -1275,7 +1287,7 @@ Ballbeauty.com.tw/goldprice/*_cf.php
 G17173cdn.com/js/play/page/pthridplayerad.
 B199001.com/public/images/activiti_pic/weidian780.
 Gu.x.jd.com/static/js/auto.
-Giask.sina.com.cn/t/
+Giask.sina.com.cn/t/cnxh?
 E$(".adbg input").eq(
 Bithome.com/images/productgif/pcmaster.
 Bithome.com/images/v2.1/downsoftmaster.
@@ -2519,7 +2531,6 @@ Gruan8.com/img/foot.
 Bruian86.com/img/y13/
 X.meidebi.com/mao/
 Gbkill.com/css/abc/
-G/a_tc.js?adid=
 Gsdo.com/static/image/mkads/
 Gpcpp.com.cn/news/a/*_article_right.
 Bpcpp.com.cn*/pcpp.
@@ -5188,7 +5199,7 @@ Lif(__amscript_cd("weihai.")){__amscript_wc('.ad,.A1-1-1,.A2-1,.A2-2,.A2-3,.A3-1
 Lif(__amscript_cd("gdzjdaily.")){__amscript_wc('#fourAd,#twoAd,.advbox,body>table:first-child object,.big_news+table,.rightcontent3 {display:none;}');};
 Lif(__amscript_cd("wangyueblog.")){__amscript_wc('#s-ad,.wigget_sponsors,.hsponsor {display:none;}');};
 Lif(__amscript_cd(".game2.")){__amscript_wc('#rb,#pop-flash {display:none !important;}');};
-Lif(__amscript_cd("1kkk.")){__amscript_wc('.kk2.cc,#beitou,.gg {display:none !important;}');};
+Lif(__amscript_cd("1kkk.")){__amscript_wc('.kk2.cc,#beitou,.gg {display:none !important;} .beitou {background-image:none !important;}');};
 Lif(__amscript_cd("qdwenxue.")){__amscript_wc('.wxgonggao {display:none;}');};
 Lif(__amscript_cd("jiasuba.")){__amscript_wc('.ad1,.topad1 {display:none;}');};
 Lif(__amscript_cd("zhengyuntv.")){__amscript_wc('#module330,#module353,#module354 {display:none;}');};
@@ -6283,6 +6294,9 @@ Lif(__amscript_cd("shhhy.")){__amscript_wc('#frameMLzskg_left,#frame6KK121_left 
 Lif(__amscript_cd("winba.me")){__amscript_wc('.metaslider,.sidebarWidget {display:none;}');};
 Lif(__amscript_cd(".zhan.com")){__amscript_wc('#box_tips,.pop_shousuo {display:none;}');};
 Lif(__amscript_cd(".ye120.")){__amscript_wc('.fixed_bottom {display:none;}');};
+Lif(__amscript_cd("18p2p.")){__amscript_wc('img[src*="imgur."] {display:none;}');};
+Lif(__amscript_cd("99files.")){__amscript_wc('#popad,.ad1 {display:none;} body.ad-box {display:block !important;}');__amscript_addonload("if(typeof(showTime)=='function'){clickCount=1;t=1;};");};
+Lif(__amscript_cd(".amazon.")){__amscript_smi=0;__amscript_noged=1;document.cookie="GZ=0;path=/;expires=Thu, 8 Jul 2018 08:11:31 UTC;domain="+document.domain;(function(w){w.uet=w.uex=w.ues=function(){return {};};w.ue=w.ue_csm={tag:function(){},count:function(){}};w.ue_sid=null;})(window);__amscript_trapevent("DOMContentLoaded","if(window.jQuery&&__amscript_ge('customer-reviews_feature_div')){jQuery(document).ajaxComplete(function(e,x,s){if((/\\/twister\\//i).test(s.url)){__amscript_ge('customer-reviews_feature_div').removeAttribute('style');};});};");};
 R|var adstime=5;|var adsTime=0;
 R|var adstime=10;|var adsTime=0;
 R|var adstime=15;|var adsTime=0;
