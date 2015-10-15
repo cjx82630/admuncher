@@ -1,4 +1,4 @@
-Xlist version 151015
+Xlist version 151015a
 B141h.com/data/attachment/noblock/cf/
 Badm1.autoimg.*.swf
 Badm0.autoimg.*.swf
@@ -4885,7 +4885,7 @@ Lif(__amscript_cd("ettoday.net")){__amscript_wc('#for-ec,.ec_menu,#ticker_3 {dis
 Lif(__amscript_cd("55bbs.")||__amscript_cd("fj007.")){__amscript_wc('.ad_div {display:none;}');};
 Lif(__amscript_cd("gamebase.com.tw")){__amscript_wc('#ad160_top,#ad725,#crazy_ad,[id^="aid_"],.forum_ad_top,.forum_ad_sidebar,.forum_ad_text_top {display:none !important;}');};
 Lif(__amscript_cd("gamefy.cn")){__amscript_wc('.tonglan,.col-vlist-l>span, .att-bar, .con>a:last-child, .tit>span:last-child, .bg_ban_bar, .ad-top385 {display:none;} .wrapbg {background:none;}');};
-Lif(__amscript_cd("gamersky.com")){__amscript_wc('#bgAdWrapClose {display:none !important;} .right_p2_ding>a, #right_fixed, .gpdo, #hitix {display:none;} body {background-image:none !important;background-color:#000000;}');};
+Lif(__amscript_cd("gamersky.com")){__amscript_wc('#bgAdWrapClose {display:none !important;} .right_p2_ding>a, #right_fixed, .gpdo, #hitix {display:none;} body {background-image:none !important;}');};
 Lif(__amscript_cd("gxsky.")){__amscript_wc('[class^="topadsbanner"] {display:none;}');};
 Lif(__amscript_cd("haha.mx")){__amscript_wc('.article.mt-20, [id^="adv"],#banner {display:none;}');};
 Lif(__amscript_cd("hk.dv.nextmedia.com")){__amscript_wc('[id^="ndx_"] {display:none;}');};
