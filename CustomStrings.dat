@@ -1,4 +1,10 @@
-Xlist version 151015a
+Xlist version 151021
+Gyes1.feng.
+G97aa1.com/g/
+Gxghylt.com/api.php?mod=ad&adid=
+Bxghylt.com/newad/
+B/119g/640x60_
+Gg2.ousns.
 B141h.com/data/attachment/noblock/cf/
 Badm1.autoimg.*.swf
 Badm0.autoimg.*.swf
@@ -1202,7 +1208,7 @@ Gtxtyd.com/js/*box.js
 Btingroom.com/skin/dy/images/2400200
 Gtingroom.com/skin/*/js/ad_
 Gtingroom.com/images/hy*.js
-Gtingroom.com/file/a2
+Gtingroom.com/file/a*.js
 Btingroom.com/skin/pt/images/tingroombanner
 Btingroom.com/images/qsbdc.
 Gtingroom.com/tingroom/ad/
@@ -1401,7 +1407,7 @@ B218.65.30.232
 Gzhihu.com/node/*upshameimaruv2?
 Gyinhangkahao.com/go/
 Bwpmeeimg.b0.upaiyun.com/2014/10/aliyun10-10.
-Gtiantian.tv/sda/uedbet/pause.
+G/uedbet/pause.
 Gtiantian.tv/api/autosda.
 O.qq.*/commwebgameselect_ad.
 Gwzi9.com/static/js/function.
@@ -1457,7 +1463,6 @@ B/005pteccgw1elr7kudozdg30r803caix.
 G8888eee.com/js/float
 Gxxhh.com/xh.
 Gwuseng.com/templets/default/statics/js/mm.
-Gtingroom.com/file/a3
 Gtupan8.com/skins/js/gg
 Gpc0359.cn/js/un.
 Bnokiacn.net/gg*.htm
@@ -1467,7 +1472,7 @@ Bmracg.com/data/attachment/portal/201412/17/
 G.36pn.com
 Opos.baidu.com/acom?di=*/file/
 G.henghost.com
-Bi-ab.org/zz/b2.
+Gi-ab.*/zz/
 B/wpbangumi/images/assets/
 O221.7.250.35/caches/poster_js/21.
 Gbomb01.com/fancybox/jquery.fancybox.
@@ -4730,7 +4735,7 @@ Pa[href="http://youxi.66174.com/"] img {display:none;}
 Pa[href*=".2345.com/?"] img,a[href*=".33ip.com"] img,a[href*=".enkj.com"] img {display:none;}
 P#dogo,.kf_qycn_com_cckf_welcomebox,#tanx-con-1,.game-ad-item,#playFlashad,.wumii-bottom-popup,a[href^="http://rd.wan.360.cn/reg"] img {display:none !important;}
 P.floatAD,#\32 345float,#asto_box,.tipadds,#js_ads_banner_top,#js_ads_banner_top_slide,#top_ads0,#floatAd,#RightAd1,#snActive-wrap {display:none !important;}
-P#mito_footer_login,#bdztad,#SideVideoAD,.lianxi_gg,.guanggaowei_top,#hz6d_freeze_div,#kfivtwin,#kfpopupDiv,#miaov_float_layer {display:none !important;}
+P#ad6cn,#mito_footer_login,#bdztad,#SideVideoAD,.lianxi_gg,.guanggaowei_top,#hz6d_freeze_div,#kfivtwin,#kfpopupDiv,#miaov_float_layer {display:none !important;}
 P#doyoo_monitor,#doyoo_mon_mask,#ad_box1,#ad_box2,#ad_box_1,#sdad,#float_ad_div,#downmsg_emessage,#Tool_adv,[class^="tuzuanad"],[id^="_z_dl_d"] {display:none !important;}
 L/*00*/function __amscript_cd(k){var d=document;return(d.domain&&d.domain.indexOf&&d.domain.indexOf(k)!=-1)?1:0;};function __amscript_cl(j,k){var l=location;return(l[j]&&l[j].indexOf(k)!=-1)?1:0;};function __amscript_ge(i){var d=document;if(d.getElementById){return d.getElementById(i);}if(d.all){return d.all[i];}if(d.layers){return d.layers[i];}return 0;};function __amscript_wc(c){var d=document;try{var r=d.createTextNode(c),s=d.createElement('style'),a;s.type='text/css';if(s.styleSheet){s.styleSheet.cssText=r.nodeValue;}else{s.appendChild(r);}__amscript_ge('__amscript_MainScript').parentNode.appendChild(s);}catch(e){if(d.write){d.write("<"+"style type='text/css'>"+c+"<"+"/style>");}}};function __amscript_dw(c){try{document.write(c);}catch(e){}};__amscript_stop=function(){if(window.stop&&typeof(stop)=='function'){window.stop();}else{document.execCommand('Stop')};};function __amscript_gc(i){var d=document;if(d.getElementsByClassName){return d.getElementsByClassName(i);}return 0;};
 L/*3a*/function __amscript_try(trycode){var a=navigator.userAgent.toLowerCase();var b=parseInt(navigator.appVersion);if((a.indexOf("mozilla")!=-1&&a.indexOf("compatible")==-1&&b>=5)||(a.indexOf("opera")!=-1&&b>=6)||(a.indexOf("msie")!=-1&&b>=4)){return eval("try {"+trycode+"} catch(e) { 0 };");}else{__amscript_bb();return 0;}};function __amscript_bb(){alert("Ad Muncher's latest filter list requires a newer browser than the one you are currently using.\n\nWe recommend upgrading to the latest version of the Opera browser, as available from:\n\nhttp://www.opera.com/");};function __amscript_getxhr(){var x=new Array("new XMLHttpRequest()","new ActiveXObject('MSXML2.XMLHTTP')","new ActiveXObject('Microsoft.XMLHTTP')");for(var i=0;i<x.length;i++){var xhr=__amscript_try(x[i]);if(xhr)return xhr;}__amscript_bb();return 0;};
@@ -7400,7 +7405,7 @@ Gnewyx.net/js/newyx
 Gnewyx.net/js/dui_lian.
 Gnewyx.net/js/bg
 Gitc.*/tracker.js
-Gifengimg.*/rdn_*.js
+Gifengimg.*/rdn_*.js?
 Xbc.ifeng.com/main/s?user=ifeng||wailian_vad
 G/main/s?
 Glinuxidc.com/linuxfile/y9.
