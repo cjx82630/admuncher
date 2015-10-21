@@ -1,4 +1,4 @@
-Xlist version 151021
+Xlist version 151021a
 Gyes1.feng.
 G97aa1.com/g/
 Gxghylt.com/api.php?mod=ad&adid=
@@ -6409,6 +6409,7 @@ R|"+antiads+"&t=|'+'0'+'&t=
 R|if(antiads=="1"|if(1>2
 R|<singlesec>15</singlesec>|
 R|document.writeln(*system.wav\|return;
+R|,"p":1,"js":|,"P":0,"JS":
 R|}],"p":1}|}],"P":0}
 R|,"p":1,"bak":[{|,"P":0,"BAK":[{
 R|:"http://k.youku.com/|:"http://policy.net/a
